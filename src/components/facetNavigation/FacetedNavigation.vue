@@ -7,7 +7,8 @@
       <div class="card ">
         <div class="card-header" id="headingOne">
           <h5 class="mb-0">
-            <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true"
+            <button class="btn btn-link" :class="{ collapsed: !accordionOpen.why }" @click="toggleAccordion('why')"
+              :aria-expanded="accordionOpen.why"
               aria-controls="collapseOne">
               <span class="title">{{facets.WHYList[0].name}}</span>
               <br/>
@@ -16,7 +17,7 @@
           </h5>
         </div>
 
-        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+        <div id="collapseOne" class="collapse" :class="{ show: accordionOpen.why }" aria-labelledby="headingOne">
           <div class="card-body">
             <FacetCategory
           :category-items-list="facets.WHYList"
@@ -29,8 +30,9 @@
       <div class="card">
         <div class="card-header" id="headingTwo">
           <h5 class="mb-0">
-            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
-              aria-expanded="false" aria-controls="collapseTwo">
+            <button class="btn btn-link" :class="{ collapsed: !accordionOpen.what }" @click="toggleAccordion('what')"
+              :aria-expanded="accordionOpen.what"
+              aria-controls="collapseTwo">
               <span class="title">{{facets.WHATList[0].name}}</span>
               <br/>
               <span>{{facets.WHATList[0].description}}</span>
@@ -38,7 +40,7 @@
             </button>
           </h5>
         </div>
-        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+        <div id="collapseTwo" class="collapse" :class="{ show: accordionOpen.what }" aria-labelledby="headingTwo">
           <div class="card-body">
             <FacetCategory
           :category-items-list="facets.WHATList"
@@ -51,15 +53,16 @@
       <div class="card">
         <div class="card-header" id="headingThree">
           <h5 class="mb-0">
-            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"
-              aria-expanded="false" aria-controls="collapseThree">
+            <button class="btn btn-link" :class="{ collapsed: !accordionOpen.how }" @click="toggleAccordion('how')"
+              :aria-expanded="accordionOpen.how"
+              aria-controls="collapseThree">
               <span class="title">{{facets.HOWList[0].name}}</span>
               <br/>
               <span>{{facets.HOWList[0].description}}</span>
             </button>
           </h5>
         </div>
-        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+        <div id="collapseThree" class="collapse" :class="{ show: accordionOpen.how }" aria-labelledby="headingThree">
           <div class="card-body">
             <FacetCategory :category-items-list="facets.HOWList" :add-selected-facet="addSelectedFacet"
               :remove-facet="removeFacet" />
@@ -79,7 +82,19 @@ export default {
   name: "FacetedNavigation",
   components: { FacetCategory },
   props: ["facets", "addSelectedFacet", "removeFacet"],
+  data() {
+    return {
+      accordionOpen: {
+        why: true,
+        what: false,
+        how: false
+      }
+    };
+  },
   methods: {
+    toggleAccordion(section) {
+      this.accordionOpen[section] = !this.accordionOpen[section];
+    },
    
     deselectFacets: function () {
       this.$props.facets.HOWList[1].forEach((group) => {
@@ -111,7 +126,6 @@ export default {
 <style lang="scss" scoped>
 @use "../../style/mainStyles.scss" as ms;
 
-
 .card-body {
     
     padding: 0.1rem!important;
@@ -120,6 +134,20 @@ export default {
   .btn {
     width:100%;
     text-align:left;
+  }
+
+  .collapse {
+    transition: max-height 0.8s ease, opacity 0.8s ease, visibility 0.8s ease;
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    visibility: hidden;
+
+    &.show {
+      max-height: 2000px;
+      opacity: 1;
+      visibility: visible;
+    }
   }
 
 // .deselect-btn {

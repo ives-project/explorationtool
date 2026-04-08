@@ -18,28 +18,7 @@
           systems that can be used to construct new solutions or deconstruct
           existing approaches to identify and analyze key aspects.</p>
             <hr/>
-      
-        <h2>Application Scenarios</h2>
-        <p>
-          The construction kit can be used to (a) support the design of a new
-          visual RecSys or (b) to deconstruct existing solutions that address
-          RecSys issues to analyze how the building blocks were combined.
-          Figure 2 shows a schematic representation of the visual RecSys
-          SmallWorlds [10], in which movies can be explored and weighted
-          through drag-and-drop interactions. At least one building block of
-          each dimension can be assigned to the interface, and thus describes
-          how different RecSys issues can be solved: (1) SmallWorlds uses Entertainment
-          and Social Network data and utilizes relational context
-          information. (2) To explore different results (RecSys challenge: Explorability),
-          the user can explore a Node-link Diagram in the Result
-          View via Zoom interaction. Position and Size can be used to compare
-          the results. The user can Highlight paths in the visualization
-          with a red Hue to see relations by Selecting a specific node. (3) The
-          interface also supports the challenge Controllability by allowing
-          the user to Weight Features by dragging a node in the form of a
-          Thumbnail to the left or right. In this case the interface can also be
-          assigned to a Control View.
-        </p>
+    
         <p>
           <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3531073.3534484" alt="ACM Paper" title="ACM Paper">See Paper at ACM Digital Library</a>
         
@@ -47,12 +26,7 @@
         <hr/>
 
       
-        <h2>Kit for visual recommender systems</h2>
-      
-        <img src="@/assets/resources/ConstructionKitNew.png"  alt="Construction Kit" class="kit-img"/>
-
-    
-        <hr/>
+        
 
         <h2>Description of building blocks</h2>
 

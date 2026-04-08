@@ -39,7 +39,7 @@
    <div id="footer" class="d-flex align-items-center justify-content-center">
       <!-- Copyright -->
       <div class="text-center p-3" style="color:white;">
-        © 2023 IVES Project Team
+        © 2026 IVES Project Team
       </div>
       <!-- Copyright -->
 
@@ -135,6 +135,10 @@ html {
 }
 nav a:active, nav a:focus, nav a:hover {
     border-bottom: 2px solid black;
+}
+nav a {
+  font-size: 1.2rem;
+  font-weight: 500;
 }
 nav a:focus, nav a.router-link-active, nav a.router-link-exact-active {
     cursor: pointer;
