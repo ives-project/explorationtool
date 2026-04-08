@@ -1,0 +1,238 @@
+$color-WHY:  rgb(243, 181, 109);
+$color-WHAT: rgb(212, 56, 56);
+$color-HOW: rgb(56, 150, 212);
+
+$color-visualizationTechnique: rgb(79,128,176);
+$color-visualChannel: rgb(71,86,155);
+$color-visualElement: rgb(114, 117, 170);
+$color-view: rgb(37, 48, 101); 
+$color-interaction: rgb(67,80,100);
+$color-systemOrUserIntent: rgb(160,175,108);
+$color-systemOrUserIntent2: rgb(30, 105, 46);
+$color-recommenderSystemIssue: rgb(243, 181, 109);
+$color-contextInformation: rgb(183,87,89);
+$color-dataDomain: rgb(151,53,48);
+
+$grid-base-color: rgba(218, 218, 218, 0.829);
+$font-color: rgb(21, 21, 21);
+$dark: rgb(24, 24, 24);
+$active: #007bff;
+$base-color: rgba(243, 243, 243, 0.812);
+$select-color: rgba(148, 137, 208, 0.56);
+$title-color:rgb(10, 56, 86);
+$disabled: rgb(103, 103, 103);
+* {
+  font-size:14px;
+  text-decoration: none !important;
+  color:$font-color;
+
+  ::-moz-selection { /* Code for Firefox */
+    color: $dark !important;
+    background: $select-color !important;
+  }
+  ::selection {
+    color: $dark !important;
+    background: $select-color !important;
+  }
+}
+
+body {
+  background:white;
+}
+
+/*    Bootstrap styling   */
+
+.badge {
+  font-weight:500;
+  z-index: 2;
+  color:white!important;
+  font-size:88%!important;
+}
+
+.badge-dark {
+  color:white!important;
+  background-color: $disabled!important;
+}
+
+hr {
+  margin: 1vh !important;
+}
+
+.card-header {
+  background-color:$base-color!important;
+  padding: 0.2rem 0.25rem;
+}
+
+
+/* Add the blur effect */
+.blur {
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+
+h1,h2,h3 {
+  margin-top:1.2rem!important;
+ }
+
+.kit-img {
+  width:70%;
+}
+
+.block-img img {
+  height: 61px;
+  width: 61px;
+  border-radius: 50%;
+  border: 1px solid gray;
+}
+
+
+.title {
+  margin-bottom:1vh;
+  margin-top: 1vh;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size:15px!important;
+
+  &-small {
+    text-transform: uppercase;
+    font-weight: 500;
+    line-height:2;
+    font-size:14px!important;
+  }
+}
+
+.legend {
+  color:$title-color!important;
+}
+
+
+.color {
+  &-WHY {
+    background-color: $color-WHY !important
+  }
+
+  &-WHAT {
+    background-color: $color-WHAT !important;
+  }
+
+  &-HOW {
+    background-color: $color-HOW !important;
+  }
+
+  &-visualizationTechnique {
+    background-color: $color-visualizationTechnique !important;
+  }
+
+  &-visualChannel {
+    background-color: $color-visualChannel !important;
+  }
+
+  &-visualElement {
+    background-color: $color-visualElement !important;
+  }
+
+  &-view {
+    background-color: $color-view !important;
+  }
+
+  &-interaction {
+    background-color: $color-interaction !important;
+  }
+
+  &-systemOrUserIntent {
+    background-color: $color-systemOrUserIntent !important;
+  }
+
+  &-recommenderSystemIssue {
+    background-color: $color-recommenderSystemIssue !important;
+  }
+
+  &-contextInformation {
+    background-color: $color-contextInformation !important;
+  }
+
+  &-dataDomain {
+    background-color: $color-dataDomain !important;
+  }
+}
+
+
+.font-color {
+  &-visualizationTechnique {
+    color: $color-visualizationTechnique !important;
+  }
+
+  &-visualChannel {
+    color: $color-visualChannel !important;
+  }
+
+  &-visualElement {
+    color: $color-visualElement !important;
+  }
+
+  &-view {
+    color: $color-view !important;
+  }
+
+  &-interaction {
+    color: $color-interaction !important;
+  }
+
+  &-systemOrUserIntent {
+    color: $color-systemOrUserIntent !important;
+  }
+
+  &-recommenderSystemIssue {
+    color: $color-recommenderSystemIssue !important;
+  }
+
+  &-contextInformation {
+    color: $color-contextInformation !important;
+  }
+
+  &-dataDomain {
+    color: $color-dataDomain !important;
+  }
+}
+
+
+
+
+// @media only screen and (max-width: 800px) {
+//   .card-body * .block-img {
+//     display:none;
+//   }
+// }
+
+
+/* Extra small devices (phones, 600px and down) */
+/* Small devices (portrait tablets and large phones, 600px and up) */
+
+@media only screen and (min-width: 600px)  {
+ 
+  .card-body * .block-img {
+    // display:none;
+  }
+
+}
+
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) 
+{
+  .card-body * .block-img {
+    // display:none;
+  }
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  
+}
