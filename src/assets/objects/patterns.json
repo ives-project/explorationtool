@@ -22,15 +22,9 @@
             "B_Individual",
             "B_e-Commerce",
             "B_42SenkeyDiagram",
-            "B_43Position",
-            "B_44Size",
-            "B_12Area",
             "B_29ResultView",
             "B_16Hover",
-            "B_17Tap",
-            "B_52Select",
-            "B_54Highlight",
-            "B_60Explore"
+            "B_17Tap"
           ]
         }
       ],
@@ -53,7 +47,7 @@
       "imageName": "02-conventions.jpg",
       "imageBlur": "blur",
       "details": {
-        "description": "In this article, we took methods of information visualization to the application area of conventions and conferences, to amplify attendees’ cognition and communication performance.",
+        "description": "In this article, we took methods of information visualization to the application area of conventions and conferences, to amplify attendees\u2019 cognition and communication performance.",
         "userstudy": "",
         "conclusion": ""
       },
@@ -67,14 +61,8 @@
             "B_Individual",
             "B_Science",
             "B_40Treemap",
-            "B_43Position",
-            "B_44Size",
-            "B_48ColorHue",
-            "B_12Area",
             "B_13Overlay",
             "B_16Hover",
-            "B_54Highlight",
-            "B_60Explore",
             "B_29ResultView"
           ]
         },
@@ -87,16 +75,11 @@
             "B_5Explorability",
             "B_Relational",
             "B_38NodeLinkDiagram",
-            "B_43Position",
-            "B_48ColorHue",
-            "B_06Point",
             "B_29ResultView",
             "B_30ControlView",
             "B_16Hover",
             "B_17Tap",
-            "B_SpreadPinch",
-            "B_54Highlight",
-            "B_60Explore"
+            "B_SpreadPinch"
           ]
         },
         {
@@ -108,15 +91,9 @@
             "B_5Explorability",
             "B_Time",
             "B_35List",
-            "B_44Size",
-            "B_43Position",
-            "B_47ColorGradient",
-            "B_12Area",
             "B_29ResultView",
             "B_16Hover",
-            "B_17Tap",
-            "B_54Highlight",
-            "B_60Explore"
+            "B_17Tap"
           ]
         },
         {
@@ -127,13 +104,8 @@
             "B_Science",
             "B_Location",
             "B_37GeograpicMap",
-            "B_47ColorGradient",
-            "B_43Position",
-            "B_12Area",
             "B_29ResultView",
-            "B_16Hover",
-            "B_54Highlight",
-            "B_60Explore"
+            "B_16Hover"
           ]
         }
       ],
@@ -157,7 +129,7 @@
       "imageBlur": "blur",
       "details": {
         "description": "This paper presents an interactive hybrid recommendation system that generates item predictions from multiple social and semantic web resources, such as Wikipedia, Facebook, and Twitter. The system employs hybrid techniques from traditional recommender system literature, in addition to a novel interactive interface which serves to explain the recommendation process and elicit preferences from the end user. We present an evaluation that compares different interactive and non-interactive hybrid strategies for computing recommendations across diverse social and semantic web APIs. Results of the study indicate that explanation and interaction with a visual representation of the hybrid system increase user satisfaction and relevance of predicted content.",
-        "userstudy": "We evaluated aspects of the TasteWeights system in terms of both recommendation accuracy and user experience. The study results indicate that: • Explaining a hybrid recommendation process througha user interface can increase user satisfaction. • Interaction at recommendation time can improve recommendation accuracy and user experience. • Hybrid strategies combining different social APIs canprovide better recommendations than traditional CF(over Facebook music preferences) ",
+        "userstudy": "We evaluated aspects of the TasteWeights system in terms of both recommendation accuracy and user experience. The study results indicate that: \u2022 Explaining a hybrid recommendation process througha user interface can increase user satisfaction. \u2022 Interaction at recommendation time can improve recommendation accuracy and user experience. \u2022 Hybrid strategies combining different social APIs canprovide better recommendations than traditional CF(over Facebook music preferences) ",
         "conclusion": "This paper presented TasteWeights, an interactive hybrid recommendation system. The system employs new models for sourcing recommendations from a range of web APIs and presents hybridization strategies for combining those recommendations."
       },
       "pattern": [
@@ -172,15 +144,9 @@
             "B_Individual",
             "B_3Controllability",
             "B_30ControlView",
-            "B_44Size",
-            "B_07Text",
-            "B_08Line",
             "B_39BarChart",
-            "B_55WeightFeatures",
             "B_21Slider",
             "B_17Tap",
-      
-            "B_51Filter",
             "B_14Drag"
           ]
         },
@@ -195,15 +161,9 @@
             "B_Individual",
             "B_2Justification",
             "B_39BarChart",
-            "B_08Line",
-            "B_09Icon",
-            "B_44Size",
-            "B_43Position",
-            "B_48ColorHue",
             "B_29ResultView",
             "B_21Slider",
             "B_17Tap",
-            "B_55WeightFeatures",
             "B_14Drag"
           ]
         }
@@ -222,7 +182,7 @@
       ],
       "literature": {
         "publish_year": "2012",
-        "citication": "Bostandjiev, Svetlin & O'Donovan, John & Höllerer, Tobias. (2012). TasteWeights: a visual interactive hybrid recommender system. 10.1145/2365952.2365964.",
+        "citication": "Bostandjiev, Svetlin & O'Donovan, John & H\u00f6llerer, Tobias. (2012). TasteWeights: a visual interactive hybrid recommender system. 10.1145/2365952.2365964.",
         "url": "https://dl.acm.org/doi/abs/10.1145/2365952.2365964"
       }
     },
@@ -244,14 +204,7 @@
           "description": "The Interactive conference article recommender works with an VENN Diagram.",
           "blocks": [
             "B_1Transparency",
-            "B_51Filter",
-            "B_52Select",
-            "B_53Compare",
             "B_41Cluster",
-            "B_43Position",
-            "B_44Size",
-            "B_48ColorHue",
-            "B_06Point",
             "B_13Overlay",
             "B_17Tap",
             "B_16Hover",
@@ -267,13 +220,9 @@
           "blocks": [
             "B_Activity",
             "B_3Controllability",
-            "B_55WeightFeatures",
             "B_22Button",
             "B_21Slider",
             "B_14Drag",
-            "B_43Position",
-            "B_48ColorHue",
-            "B_07Text",
             "B_35List",
             "B_30ControlView",
             "B_Science"
@@ -286,17 +235,10 @@
           "blocks": [
             "B_1Transparency",
             "B_5Explorability",
-    
-            "B_07Text",
             "B_35List",
-            "B_48ColorHue",
             "B_16Hover",
-            "B_43Position",
-            "B_52Select",
-            "B_60Explore",
             "B_29ResultView",
             "B_22Button",
-            "B_58ShowMore",
             "B_Activity",
             "B_Science"
           ]
@@ -341,23 +283,12 @@
             "B_Entertainment",
             "B_Individual",
             "B_41Cluster",
-            "B_43Position",
-            "B_48ColorHue",
-            "B_06Point",
-            "B_07Text",
-            "B_08Line",
             "B_29ResultView",
             "B_14Drag",
             "B_SpreadPinch",
             "B_17Tap",
             "B_20PanScroll",
-            "B_19SetMark",
-            "B_16Hover",
-            "B_60Explore",
-            "B_49Predict",
-            "B_52Select",
-            "B_54Highlight",
-            "B_56Rate"
+            "B_16Hover"
           ]
         }
       ],
@@ -375,7 +306,7 @@
       ],
       "literature": {
         "publish_year": "2016",
-        "citication": "Ivana Andjelkovic, Denis Parra, and John O'Donovan. 2016. Moodplay: Interactive Mood-based Music Discovery and Recommendation. In Proceedings of the 2016 Conference on User Modeling Adaptation and Personalization (UMAP '16). Association for Computing Machinery, New York, NY, USA, 275–279. https://doi.org/10.1145/2930238.2930280"
+        "citication": "Ivana Andjelkovic, Denis Parra, and John O'Donovan. 2016. Moodplay: Interactive Mood-based Music Discovery and Recommendation. In Proceedings of the 2016 Conference on User Modeling Adaptation and Personalization (UMAP '16). Association for Computing Machinery, New York, NY, USA, 275\u2013279. https://doi.org/10.1145/2930238.2930280"
       }
     },
     {
@@ -393,7 +324,7 @@
         {
           "title": "Exploration Layer",
           "image": "06-tastepaths-1.jpg",
-          "description": "TastePaths interface for the genre art pop. TastePaths displays a network of artists grown from the user’s anchor artists, which are displayed as black nodes (A). When hovering over a node, the artist’s name, here “Cocteau Twins”, appears and a preview of their most popular track is automatically played (B). This network is clustered to capture diferent groups of artists within the genre. The three most representative genres for each cluster are shown in the legend (C) To help users navigate the network, there is a green path, called the 'guide'. (F) The ribbon also displays the number of songs currently in the playlist.",
+          "description": "TastePaths interface for the genre art pop. TastePaths displays a network of artists grown from the user\u2019s anchor artists, which are displayed as black nodes (A). When hovering over a node, the artist\u2019s name, here \u201cCocteau Twins\u201d, appears and a preview of their most popular track is automatically played (B). This network is clustered to capture diferent groups of artists within the genre. The three most representative genres for each cluster are shown in the legend (C) To help users navigate the network, there is a green path, called the 'guide'. (F) The ribbon also displays the number of songs currently in the playlist.",
           "blocks": [
             "B_Relational",
             "B_2Justification",
@@ -401,11 +332,6 @@
             "B_7Diversity",
             "B_38NodeLinkDiagram",
             "B_41Cluster",
-            "B_44Size",
-            "B_43Position",
-            "B_48ColorHue",
-            "B_06Point",
-            "B_07Text",
             "B_13Overlay",
             "B_29ResultView",
             "B_17Tap",
@@ -413,10 +339,6 @@
             "B_SpreadPinch",
             "B_21Slider",
             "B_20PanScroll",
-            "B_60Explore",
-            "B_52Select",
-            "B_54Highlight",
-            "B_58ShowMore",
             "B_Entertainment"
           ]
         }
@@ -454,14 +376,10 @@
             "B_Location",
             "B_Education",
             "B_37GeograpicMap",
-            "B_48ColorHue",
-            "B_43Position",
-            "B_11Glyph",
             "B_29ResultView",
             "B_17Tap",
             "B_SpreadPinch",
-            "B_20PanScroll",
-            "B_60Explore"
+            "B_20PanScroll"
           ]
         }
       ],
@@ -499,14 +417,8 @@
             "B_Entertainment",
             "B_SocialNetwork",
             "B_29ResultView",
-            "B_54Highlight",
             "B_17Tap",
             "B_38NodeLinkDiagram",
-            "B_53Compare",
-            "B_48ColorHue",
-            "B_60Explore",
-            "B_43Position",
-            "B_44Size",
             "B_SpreadPinch",
             "B_14Drag"
           ]
@@ -521,8 +433,6 @@
             "B_Entertainment",
             "B_SocialNetwork",
             "B_30ControlView",
-            "B_10Thumbnail",
-            "B_55WeightFeatures",
             "B_14Drag"
           ]
         },
@@ -535,9 +445,7 @@
             "B_Relational",
             "B_Entertainment",
             "B_SocialNetwork",
-            "B_14Drag",
-            "B_58ShowMore",
-            "B_48ColorHue"
+            "B_14Drag"
           ]
         }
       ],
@@ -550,7 +458,7 @@
       ],
       "literature": {
         "publish_year": "2010",
-        "citication": "Gretarsson, B., O’Donovan, J., Bostandjiev, S., Hall, C. & Höllerer, T. (2010). Smallworlds: Visualizing social recommendations. Computer Graphics Forum, 29(3), 833–842"
+        "citication": "Gretarsson, B., O\u2019Donovan, J., Bostandjiev, S., Hall, C. & H\u00f6llerer, T. (2010). Smallworlds: Visualizing social recommendations. Computer Graphics Forum, 29(3), 833\u2013842"
       }
     },
     {
@@ -573,10 +481,7 @@
             "B_3Controllability",
             "B_Activity",
             "B_Entertainment",
-            "B_56Rate",
-            "B_10Thumbnail",
             "B_16Hover",
-            "B_09Icon",
             "B_31SingleResult",
             "B_22Button",
             "B_15Swipe"
@@ -590,11 +495,8 @@
             "B_5Explorability",
             "B_Entertainment",
             "B_Relational",
-            "B_60Explore",
             "B_SpreadPinch",
             "B_55Rotate",
-            "B_10Thumbnail",
-            "B_48ColorHue",
             "B_32Tile",
             "B_13Overlay"
           ]
@@ -609,7 +511,7 @@
       ],
       "literature": {
         "publish_year": "2012",
-        "citication": "Gjorgji Strezoski, Lucas Fijen, Jonathan Mitnik, Dániel László, Pieter de Marez Oyens, Yoni Schirris, and Marcel Worring. 2020. TindART: A Personal Visual Arts Recommender. In Proceedings of the 28th ACM International Conference on Multimedia (MM '20). Association for Computing Machinery, New York, NY, USA, 4524–4526. https://doi.org/10.1145/3394171.3414445"
+        "citication": "Gjorgji Strezoski, Lucas Fijen, Jonathan Mitnik, D\u00e1niel L\u00e1szl\u00f3, Pieter de Marez Oyens, Yoni Schirris, and Marcel Worring. 2020. TindART: A Personal Visual Arts Recommender. In Proceedings of the 28th ACM International Conference on Multimedia (MM '20). Association for Computing Machinery, New York, NY, USA, 4524\u20134526. https://doi.org/10.1145/3394171.3414445"
       }
     },
     {
@@ -619,7 +521,7 @@
       "imageName": "10-musicarchipelago.png",
       "imageBlur": "blur",
       "details": {
-        "description": "The vis shows the whole content of a user’s music library at a glance. Therefore comparison is possible.",
+        "description": "The vis shows the whole content of a user\u2019s music library at a glance. Therefore comparison is possible.",
         "userstudy": "",
         "conclusion": ""
       },
@@ -627,7 +529,7 @@
         {
           "title": "Tool",
           "image": "10-musicarchipelago.png",
-          "description": "This is achieved through the use of a landscape metaphor alike Pampalk’s islands of musics. At any time, items in the displayed set (”genre” for instance) are laid out as ”islands” on a 2D map (baseline)",
+          "description": "This is achieved through the use of a landscape metaphor alike Pampalk\u2019s islands of musics. At any time, items in the displayed set (\u201dgenre\u201d for instance) are laid out as \u201dislands\u201d on a 2D map (baseline)",
           "blocks": [
             "B_5Explorability",
             "B_7Diversity",
@@ -637,12 +539,7 @@
             "B_Entertainment",
             "B_SpreadPinch",
             "B_26Toggle",
-            "B_53Compare",
-            "B_33Map-likeVis",
-            "B_44Size",
-            "B_08Line",
-            "B_48ColorHue",
-            "B_43Position"
+            "B_33Map-likeVis"
           ]
         }
       ],
@@ -660,7 +557,7 @@
       ],
       "literature": {
         "publish_year": "2015",
-        "citication": "E. Languénou, P. Kuntz and N. Greffard, Music archipelago, a facet-like music library comparison tool, 2015 IEEE 9th International Conference on Research Challenges in Information Science (RCIS), Athens, Greece, 2015, pp. 534-535, doi: 10.1109/RCIS.2015.7128925."
+        "citication": "E. Langu\u00e9nou, P. Kuntz and N. Greffard, Music archipelago, a facet-like music library comparison tool, 2015 IEEE 9th International Conference on Research Challenges in Information Science (RCIS), Athens, Greece, 2015, pp. 534-535, doi: 10.1109/RCIS.2015.7128925."
       }
     },
     {
@@ -689,18 +586,9 @@
             "B_55Rotate",
             "B_SpreadPinch",
             "B_33Map-likeVis",
-            "B_48ColorHue",
-            "B_47ColorGradient",
-            "B_43Position",
             "B_13Overlay",
-            "B_10Thumbnail",
             "B_17Tap",
             "B_20PanScroll",
-            "B_53Compare",
-            "B_55WeightFeatures",
-            "B_44Size",
-            "B_60Explore",
-            "B_54Highlight",
             "B_14Drag",
             "B_30ControlView",
             "B_29ResultView"
@@ -716,7 +604,7 @@
       ],
       "literature": {
         "publish_year": "2017",
-        "citication": "Johannes Kunkel, Benedikt Loepp, and Jürgen Ziegler. 2017. A 3D Item Space Visualization for Presenting and Manipulating User Preferences in Collaborative Filtering. In Proceedings of the 22nd International Conference on Intelligent User Interfaces (IUI '17). Association for Computing Machinery, New York, NY, USA, 3–15. https://doi.org/10.1145/3025171.3025189"
+        "citication": "Johannes Kunkel, Benedikt Loepp, and J\u00fcrgen Ziegler. 2017. A 3D Item Space Visualization for Presenting and Manipulating User Preferences in Collaborative Filtering. In Proceedings of the 22nd International Conference on Intelligent User Interfaces (IUI '17). Association for Computing Machinery, New York, NY, USA, 3\u201315. https://doi.org/10.1145/3025171.3025189"
       }
     },
     {
@@ -737,10 +625,8 @@
           "description": "The user can choose between a series of images clicking on those he considers interesting.",
           "blocks": [
             "B_4ColdStart",
-            "B_55WeightFeatures",
             "B_Activity",
             "B_Tourism",
-            "B_10Thumbnail",
             "B_32Tile",
             "B_22Button",
             "B_17Tap",
@@ -755,17 +641,12 @@
             "B_Activity",
             "B_Tourism",
             "B_3Controllability",
-            "B_59Search",
             "B_37GeograpicMap",
             "B_23InputForm",
-            "B_57Adjust",
             "B_20PanScroll",
             "B_SpreadPinch",
             "B_21Slider",
             "B_22Button",
-            "B_19SetMark",
-            "B_43Position",
-            "B_09Icon",
             "B_30ControlView"
           ]
         },
@@ -777,12 +658,8 @@
             "B_Relational",
             "B_5Explorability",
             "B_8Serendipity",
-            "B_60Explore",
             "B_20PanScroll",
             "B_SpreadPinch",
-            "B_48ColorHue",
-            "B_43Position",
-            "B_09Icon",
             "B_37GeograpicMap",
             "B_Activity",
             "B_Tourism",
@@ -799,14 +676,8 @@
             "B_Tourism",
             "B_1Transparency",
             "B_38NodeLinkDiagram",
-            "B_48ColorHue",
-            "B_43Position",
-            "B_07Text",
-            "B_06Point",
             "B_17Tap",
-            "B_29ResultView",
-            "B_60Explore",
-            "B_58ShowMore"
+            "B_29ResultView"
           ]
         }
       ],
@@ -819,7 +690,7 @@
       ],
       "literature": {
         "publish_year": "2019",
-        "citication": "Sansonetti, G. (2019). Point of interest recommendation based on social and linked open data. Personal Ubiquitous Comput., 23(2), 199–214. https://doi.org/10.1007/s00779-019-01218-z"
+        "citication": "Sansonetti, G. (2019). Point of interest recommendation based on social and linked open data. Personal Ubiquitous Comput., 23(2), 199\u2013214. https://doi.org/10.1007/s00779-019-01218-z"
       }
     },
     {
@@ -845,16 +716,9 @@
             "B_1Transparency",
             "B_3Controllability",
             "B_5Explorability",
-            "B_60Explore",
-            "B_53Compare",
             "B_41Cluster",
-            "B_12Area",
-            "B_44Size",
-            "B_06Point",
-            "B_48ColorHue",
             "B_29ResultView",
             "B_13Overlay",
-            "B_52Select",
             "B_17Tap",
             "B_16Hover"
           ]
@@ -869,7 +733,7 @@
       ],
       "literature": {
         "publish_year": "2013",
-        "citication": "Katrien Verbert, Denis Parra, Peter Brusilovsky, and Erik Duval. 2013. Visualizing recommendations to support exploration, transparency and controllability. In Proceedings of the 2013 international conference on Intelligent user interfaces (IUI '13). Association for Computing Machinery, New York, NY, USA, 351–362. https://doi.org/10.1145/2449396.2449442"
+        "citication": "Katrien Verbert, Denis Parra, Peter Brusilovsky, and Erik Duval. 2013. Visualizing recommendations to support exploration, transparency and controllability. In Proceedings of the 2013 international conference on Intelligent user interfaces (IUI '13). Association for Computing Machinery, New York, NY, USA, 351\u2013362. https://doi.org/10.1145/2449396.2449442"
       }
     },
     {
@@ -891,19 +755,11 @@
           "blocks": [
             "B_Entertainment",
             "B_Relational",
-            "B_52Select",
             "B_3Controllability",
             "B_5Explorability",
-            "B_54Highlight",
             "B_38NodeLinkDiagram",
-            "B_56Rate",
-            "B_53Compare",
-            "B_55WeightFeatures",
             "B_29ResultView",
             "B_30ControlView",
-            "B_48ColorHue",
-            "B_09Icon",
-            "B_43Position",
             "B_17Tap",
             "B_14Drag"
           ]
@@ -923,7 +779,7 @@
       ],
       "literature": {
         "publish_year": "2008",
-        "citication": "John O'Donovan, Barry Smyth, Brynjar Gretarsson, Svetlin Bostandjiev, and Tobias Höllerer. 2008. PeerChooser: visual interactive recommendation. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '08). Association for Computing Machinery, New York, NY, USA, 1085–1088. https://doi.org/10.1145/1357054.1357222"
+        "citication": "John O'Donovan, Barry Smyth, Brynjar Gretarsson, Svetlin Bostandjiev, and Tobias H\u00f6llerer. 2008. PeerChooser: visual interactive recommendation. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '08). Association for Computing Machinery, New York, NY, USA, 1085\u20131088. https://doi.org/10.1145/1357054.1357222"
       }
     },
     {
@@ -948,13 +804,6 @@
             "B_5Explorability",
             "B_33Map-likeVis",
             "B_41Cluster",
-            "B_48ColorHue",
-            "B_44Size",
-            "B_43Position",
-            "B_53Compare",
-            "B_60Explore",
-            "B_07Text",
-            "B_12Area",
             "B_SpreadPinch",
             "B_29ResultView"
           ]
@@ -970,14 +819,7 @@
             "B_6Novelty",
             "B_33Map-likeVis",
             "B_47Heatmap",
-            "B_48ColorHue",
-            "B_47ColorGradient",
-            "B_43Position",
-            "B_07Text",
-            "B_44Size",
             "B_SpreadPinch",
-            "B_49Predict",
-            "B_54Highlight",
             "B_29ResultView"
           ]
         }
@@ -991,7 +833,7 @@
       ],
       "literature": {
         "publish_year": "2009",
-        "citication": "Emden Gansner, Yifan Hu, Stephen Kobourov, and Chris Volinsky. 2009. Putting recommendations on the map: visualizing clusters and relations. In Proceedings of the third ACM conference on Recommender systems (RecSys '09). Association for Computing Machinery, New York, NY, USA, 345–348. https://doi.org/10.1145/1639714.1639784"
+        "citication": "Emden Gansner, Yifan Hu, Stephen Kobourov, and Chris Volinsky. 2009. Putting recommendations on the map: visualizing clusters and relations. In Proceedings of the third ACM conference on Recommender systems (RecSys '09). Association for Computing Machinery, New York, NY, USA, 345\u2013348. https://doi.org/10.1145/1639714.1639784"
       }
     },
     {
@@ -1014,9 +856,6 @@
             "B_3Controllability",
             "B_5Explorability",
             "B_7Diversity",
-            "B_06Point",
-            "B_43Position",
-            "B_48ColorHue",
             "B_Relational",
             "B_29ResultView",
             "B_30ControlView",
@@ -1024,9 +863,6 @@
             "B_21Slider",
             "B_23InputForm",
             "B_SpreadPinch",
-            "B_57Adjust",
-            "B_60Explore",
-            "B_53Compare",
             "B_36ScatterPlot"
           ]
         }
@@ -1040,7 +876,7 @@
       ],
       "literature": {
         "publish_year": "2011",
-        "citication": "David Wong, Siamak Faridani, Ephrat Bitton, Björn Hartmann, and Ken Goldberg. 2011. The diversity donut: enabling participant control over the diversity of recommended responses. In CHI '11 Extended Abstracts on Human Factors in Computing Systems (CHI EA '11). Association for Computing Machinery, New York, NY, USA, 1471–1476. https://doi.org/10.1145/1979742.1979793"
+        "citication": "David Wong, Siamak Faridani, Ephrat Bitton, Bj\u00f6rn Hartmann, and Ken Goldberg. 2011. The diversity donut: enabling participant control over the diversity of recommended responses. In CHI '11 Extended Abstracts on Human Factors in Computing Systems (CHI EA '11). Association for Computing Machinery, New York, NY, USA, 1471\u20131476. https://doi.org/10.1145/1979742.1979793"
       }
     },
     {
@@ -1062,28 +898,22 @@
           "blocks": [
             "B_3Controllability",
             "B_4ColdStart",
-            "B_59Search",
-            "B_55WeightFeatures",
             "B_22Button",
             "B_21Slider",
-            "B_51Filter",
             "B_17Tap",
             "B_Entertainment",
             "B_28SearchView",
             "B_23InputForm",
             "B_Individual",
-            "B_07Text",
-            "B_35List",
-            "B_43Position"
+            "B_35List"
           ]
         },
         {
           "title": "Grouped BarChart",
           "image": "17_barchart.png",
-          "description": "To explain why a song is recommended, the authors used a grouped bar chart, as seen in Figure 1(d), which shows a comparison of the attributes between the selected song and the user’s preference. For each of the six attributes, they showed the value of the user’s preference (striped bar) and the value of the the selected song (solidcoloured bar). The colours of the bars match those of the sliders from the preference component in order to show their relations.",
+          "description": "To explain why a song is recommended, the authors used a grouped bar chart, as seen in Figure 1(d), which shows a comparison of the attributes between the selected song and the user\u2019s preference. For each of the six attributes, they showed the value of the user\u2019s preference (striped bar) and the value of the the selected song (solidcoloured bar). The colours of the bars match those of the sliders from the preference component in order to show their relations.",
           "blocks": [
             "B_2Justification",
-            "B_56Rate",
             "B_22Button",
             "B_26Toggle",
             "B_35List",
@@ -1091,34 +921,22 @@
             "B_Entertainment",
             "B_30ControlView",
             "B_29ResultView",
-            "B_53Compare",
-            "B_58ShowMore",
             "B_17Tap",
             "B_Individual",
-            "B_07Text",
-            "B_08Line",
-            "B_43Position",
-            "B_44Size",
             "B_20PanScroll"
           ]
         },
         {
           "title": "Scatterplot",
           "image": "17_scatterplot.png",
-          "description": "As seen in Figure 1 (e), the recommended songs are displayed in a two dimensional plot where users can select the attributes they wish to see on the X and Y axes. The songs that have been liked are shown in green, and the user’s attribute preference is shown by two lines forming a cross. Hovering over a songs highlights the song in the recommendation list and vice versa.",
+          "description": "As seen in Figure 1 (e), the recommended songs are displayed in a two dimensional plot where users can select the attributes they wish to see on the X and Y axes. The songs that have been liked are shown in green, and the user\u2019s attribute preference is shown by two lines forming a cross. Hovering over a songs highlights the song in the recommendation list and vice versa.",
           "blocks": [
             "B_2Justification",
-            "B_53Compare",
-            "B_57Adjust",
-            "B_54Highlight",
             "B_Individual",
             "B_29ResultView",
-            "B_43Position",
-            "B_48ColorHue",
             "B_36ScatterPlot",
             "B_Entertainment",
             "B_16Hover",
-            "B_52Select",
             "B_25DropdownBox"
           ]
         },
@@ -1127,17 +945,12 @@
           "image": "17.png",
           "description": "The explanation interface contains following elements: a) artists, b) preference, c) list of recommendations, d) bar chart, e) scatterplot, f) rated songs in a sidebar, and g) list of rated songs in a sidebar.",
           "blocks": [
-            "B_52Select",
-            "B_60Explore",
             "B_Entertainment",
             "B_29ResultView",
             "B_17Tap",
             "B_Individual",
-            "B_07Text",
-            "B_43Position",
             "B_35List",
             "B_41Cluster"
-            
           ]
         }
       ],
@@ -1155,7 +968,7 @@
       ],
       "literature": {
         "publish_year": "2019",
-        "citication": "Martijn Millecamp and Katrien Verbert. 2019. Personal user interfaces for recommender systems. In Proceedings of the 24th International Conference on Intelligent User Interfaces: Companion (IUI '19). Association for Computing Machinery, New York, NY, USA, 147–148. https://doi.org/10.1145/3308557.3308729    "
+        "citication": "Martijn Millecamp and Katrien Verbert. 2019. Personal user interfaces for recommender systems. In Proceedings of the 24th International Conference on Intelligent User Interfaces: Companion (IUI '19). Association for Computing Machinery, New York, NY, USA, 147\u2013148. https://doi.org/10.1145/3308557.3308729    "
       }
     },
     {
@@ -1178,13 +991,8 @@
             "B_3Controllability",
             "B_Entertainment",
             "B_Individual",
-            "B_53Compare",
             "B_48Table",
             "B_30ControlView",
-            "B_09Icon",
-            "B_10Thumbnail",
-            "B_43Position",
-            "B_52Select",
             "B_Checkbox"
           ]
         },
@@ -1196,17 +1004,12 @@
             "B_3Controllability",
             "B_4ColdStart",
             "B_2Justification",
-            "B_56Rate",
             "B_Entertainment",
             "B_Individual",
-            "B_52Select",
             "B_21Slider",
             "B_14Drag",
-            "B_10Thumbnail",
-            "B_09Icon",
             "B_32Tile",
-            "B_29ResultView",
-            "B_43Position"
+            "B_29ResultView"
           ]
         }
       ],
@@ -1219,7 +1022,7 @@
       ],
       "literature": {
         "publish_year": "2019",
-        "citication": "Stefan Dimitri Ziaras and Wolfgang Wörndl. 2019. Strategy-Specific Preference Elicitation for Group Recommender. In Proceedings of Mensch und Computer 2019 (MuC'19). Association for Computing Machinery, New York, NY, USA, 531–535. https://doi.org/10.1145/3340764.3344452"
+        "citication": "Stefan Dimitri Ziaras and Wolfgang W\u00f6rndl. 2019. Strategy-Specific Preference Elicitation for Group Recommender. In Proceedings of Mensch und Computer 2019 (MuC'19). Association for Computing Machinery, New York, NY, USA, 531\u2013535. https://doi.org/10.1145/3340764.3344452"
       }
     },
     {
@@ -1241,23 +1044,14 @@
           "blocks": [
             "B_6Novelty",
             "B_2Justification",
-            "B_50Sort",
             "B_39BarChart",
             "B_Activity",
-            "B_49Predict",
-            "B_60Explore",
-            "B_53Compare",
             "B_Education",
             "B_32Tile",
-            "B_07Text",
-            "B_08Line",
             "B_17Tap",
             "B_13Overlay",
-            "B_47ColorGradient",
-            "B_48ColorHue",
             "B_29ResultView",
             "B_30ControlView",
-            "B_44Size",
             "B_SpreadPinch"
           ]
         }
@@ -1271,7 +1065,7 @@
       ],
       "literature": {
         "publish_year": "2019",
-        "citication": "Barria-Pineda, J. & Brusilovsky, P. (2019). Explaining educational recommendations through a concept-level knowledge visualization. Proceedings of the 24th International Conference on Intelligent User Interfaces: Companion, 103–104. https://doi.org/10.1145/3308557.3308690"
+        "citication": "Barria-Pineda, J. & Brusilovsky, P. (2019). Explaining educational recommendations through a concept-level knowledge visualization. Proceedings of the 24th International Conference on Intelligent User Interfaces: Companion, 103\u2013104. https://doi.org/10.1145/3308557.3308690"
       }
     },
     {
@@ -1293,17 +1087,11 @@
           "blocks": [
             "B_2Justification",
             "B_6Novelty",
-            "B_52Select",
-            "B_49Predict",
-            "B_58ShowMore",
             "B_Entertainment",
             "B_Individual",
             "B_29ResultView",
-            "B_11Glyph",
             "B_32Tile",
             "B_35List",
-            "B_07Text",
-            "B_46Shape",
             "B_31SingleResult",
             "B_21Slider",
             "B_22Button"
@@ -1324,7 +1112,7 @@
       ],
       "literature": {
         "publish_year": "2013",
-        "citication": "Bogdanov,D., Haro, M., Fuhrmann, F., Xambó, A.,Gómez, E.&Herrera, P. (2013). Semantic audio content-based music recommendation and visualization based on user preference examples. Information Processing & Management, 49(1), 13–33. https://doi.org/https://doi.org/10.1016/j.ipm.2012.06.004"
+        "citication": "Bogdanov,D., Haro, M., Fuhrmann, F., Xamb\u00f3, A.,G\u00f3mez, E.&Herrera, P. (2013). Semantic audio content-based music recommendation and visualization based on user preference examples. Information Processing & Management, 49(1), 13\u201333. https://doi.org/https://doi.org/10.1016/j.ipm.2012.06.004"
       }
     },
     {
@@ -1345,13 +1133,10 @@
           "description": "Like/Dislike button can be used to express ad references.",
           "blocks": [
             "B_3Controllability",
-            "B_56Rate",
             "B_Activity",
-            "B_48ColorHue",
             "B_31SingleResult",
             "B_e-Commerce",
             "B_22Button",
-            "B_10Thumbnail",
             "B_30ControlView"
           ]
         },
@@ -1362,13 +1147,10 @@
           "blocks": [
             "B_1Transparency",
             "B_2Justification",
-            "B_49Predict",
             "B_Activity",
             "B_e-Commerce",
             "B_34ProcessChart",
-            "B_29ResultView",
-            "B_07Text",
-            "B_43Position"
+            "B_29ResultView"
           ]
         },
         {
@@ -1379,14 +1161,11 @@
             "B_3Controllability",
             "B_e-Commerce",
             "B_Activity",
-            "B_57Adjust",
-            "B_56Rate",
             "B_22Button",
             "B_Radio",
             "B_25DropdownBox",
             "B_35List",
-            "B_30ControlView",
-            "B_07Text"
+            "B_30ControlView"
           ]
         }
       ],
@@ -1399,7 +1178,7 @@
       ],
       "literature": {
         "publish_year": "2016",
-        "citication": "Yucheng Jin, Karsten Seipp, Erik Duval, and Katrien Verbert. 2016. Go With the Flow: Effects of Transparency and User Control on Targeted Advertising Using Flow Charts. In Proceedings of the International Working Conference on Advanced Visual Interfaces (AVI '16). Association for Computing Machinery, New York, NY, USA, 68–75. https://doi.org/10.1145/2909132.2909269"
+        "citication": "Yucheng Jin, Karsten Seipp, Erik Duval, and Katrien Verbert. 2016. Go With the Flow: Effects of Transparency and User Control on Targeted Advertising Using Flow Charts. In Proceedings of the International Working Conference on Advanced Visual Interfaces (AVI '16). Association for Computing Machinery, New York, NY, USA, 68\u201375. https://doi.org/10.1145/2909132.2909269"
       }
     },
     {
@@ -1422,16 +1201,11 @@
             "B_5Explorability",
             "B_2Justification",
             "B_Time",
-            "B_60Explore",
             "B_29ResultView",
-            "B_44Size",
-            "B_48ColorHue",
-            "B_08Line",
             "B_Entertainment",
             "B_Activity",
             "B_42SenkeyDiagram",
-            "B_17Tap",
-            "B_54Highlight"
+            "B_17Tap"
           ]
         }
       ],
@@ -1444,7 +1218,7 @@
       ],
       "literature": {
         "publish_year": "2020",
-        "citication": "Veronika Bogina, Julia Sheidin, Tsvi Kuflik, and Shlomo Berkovsky. 2020. Visualizing Program Genres' Temporal-Based Similarity in Linear TV Recommendations. In Proceedings of the International Conference on Advanced Visual Interfaces (AVI '20). Association for Computing Machinery, New York, NY, USA, Article 69, 1–5. https://doi.org/10.1145/3399715.3399813    "
+        "citication": "Veronika Bogina, Julia Sheidin, Tsvi Kuflik, and Shlomo Berkovsky. 2020. Visualizing Program Genres' Temporal-Based Similarity in Linear TV Recommendations. In Proceedings of the International Conference on Advanced Visual Interfaces (AVI '20). Association for Computing Machinery, New York, NY, USA, Article 69, 1\u20135. https://doi.org/10.1145/3399715.3399813    "
       }
     },
     {
@@ -1465,21 +1239,12 @@
           "description": "Node distortion allows users to dynamically adjust the angular width of a node sector. By scrolling the mouse wheel to up, users can increase the width of a node, and down to decrease the width. The width of the children under a distorted node is changed proportionally. This distortion can provide increased details on nodes of interest. Matched tags are highlighted in the RSF tree view. ",
           "blocks": [
             "B_5Explorability",
-            "B_52Select",
             "B_Individual",
             "B_SocialNetwork",
             "B_43Sunburst",
-            "B_43Position",
-            "B_44Size",
-            "B_48ColorHue",
-            "B_45Tilt",
-            "B_58ShowMore",
-            "B_54Highlight",
-            "B_12Area",
             "B_29ResultView",
             "B_16Hover",
-            "B_20PanScroll",
-            "B_60Explore"
+            "B_20PanScroll"
           ]
         },
         {
@@ -1492,16 +1257,9 @@
             "B_5Explorability",
             "B_SocialNetwork",
             "B_43Sunburst",
-            "B_43Position",
-            "B_44Size",
-            "B_47ColorGradient",
-            "B_08Line",
-            "B_12Area",
             "B_29ResultView",
             "B_16Hover",
-            "B_17Tap",
-            "B_54Highlight",
-            "B_60Explore"
+            "B_17Tap"
           ]
         }
       ],
@@ -1514,7 +1272,7 @@
       ],
       "literature": {
         "publish_year": "2011",
-        "citication": "Liang Gou, Fang You, Jun Guo, Luqi Wu, and Xiaolong (Luke) Zhang. 2011. SFViz: interest-based friends exploration and recommendation in social networks. In Proceedings of the 2011 Visual Information Communication - International Symposium (VINCI '11). Association for Computing Machinery, New York, NY, USA, Article 15, 1–10. https://doi.org/10.1145/2016656.2016671    "
+        "citication": "Liang Gou, Fang You, Jun Guo, Luqi Wu, and Xiaolong (Luke) Zhang. 2011. SFViz: interest-based friends exploration and recommendation in social networks. In Proceedings of the 2011 Visual Information Communication - International Symposium (VINCI '11). Association for Computing Machinery, New York, NY, USA, Article 15, 1\u201310. https://doi.org/10.1145/2016656.2016671    "
       }
     },
     {
@@ -1542,20 +1300,11 @@
             "B_Activity",
             "B_Tourism",
             "B_37GeograpicMap",
-            "B_43Position",
-            "B_45Tilt",
-            "B_48ColorHue",
-            "B_08Line",
-            "B_09Icon",
             "B_13Overlay",
             "B_29ResultView",
             "B_16Hover",
             "B_SpreadPinch",
-            "B_17Tap",
-            "B_49Predict",
-            "B_52Select",
-            "B_53Compare",
-            "B_54Highlight"
+            "B_17Tap"
           ]
         }
       ],
@@ -1593,17 +1342,8 @@
             "B_Relational",
             "B_Entertainment",
             "B_38NodeLinkDiagram",
-            "B_44Size",
-            "B_48ColorHue",
-            "B_06Point",
-            "B_07Text",
-            "B_08Line",
             "B_29ResultView",
-            "B_17Tap",
-            "B_49Predict",
-            "B_52Select",
-            "B_53Compare",
-            "B_54Highlight"
+            "B_17Tap"
           ]
         }
       ],
@@ -1643,18 +1383,11 @@
             "B_Entertainment",
             "B_Tourism",
             "B_37GeograpicMap",
-            "B_43Position",
-            "B_07Text",
-            "B_09Icon",
             "B_29ResultView",
             "B_17Tap",
             "B_SpreadPinch",
-            "B_51Filter",
-            "B_52Select",
-            "B_58ShowMore",
             "B_20PanScroll",
-            "B_13Overlay",
-            "B_60Explore"
+            "B_13Overlay"
           ]
         }
       ],
@@ -1697,21 +1430,11 @@
             "B_Entertainment",
             "B_32Tile",
             "B_39BarChart",
-            "B_43Position",
-            "B_44Size",
-            "B_07Text",
-            "B_08Line",
-            "B_10Thumbnail",
             "B_29ResultView",
             "B_30ControlView",
             "B_17Tap",
             "B_22Button",
-            "B_23InputForm",
-            "B_49Predict",
-            "B_51Filter",
-            "B_52Select",
-            "B_56Rate",
-            "B_57Adjust"
+            "B_23InputForm"
           ]
         }
       ],
@@ -1755,23 +1478,11 @@
             "B_48Table",
             "B_36ScatterPlot",
             "B_38NodeLinkDiagram",
-            "B_43Position",
-            "B_44Size",
-            "B_07Text",
-            "B_48ColorHue",
-            "B_06Point",
             "B_29ResultView",
             "B_30ControlView",
             "B_Tabs",
             "B_25DropdownBox",
             "B_22Button",
-            "B_58ShowMore",
-            "B_57Adjust",
-            "B_53Compare",
-            "B_52Select",
-            "B_51Filter",
-            "B_50Sort",
-            "B_49Predict",
             "B_17Tap"
           ]
         },
@@ -1791,20 +1502,10 @@
             "B_Science",
             "B_48Table",
             "B_39BarChart",
-            "B_43Position",
-            "B_07Text",
-            "B_48ColorHue",
-            "B_09Icon",
             "B_29ResultView",
             "B_30ControlView",
             "B_21Slider",
-            "B_17Tap",
-            "B_54Highlight",
-            "B_55WeightFeatures",
-            "B_60Explore",
-            "B_53Compare",
-            "B_52Select",
-            "B_50Sort"
+            "B_17Tap"
           ]
         }
       ],
@@ -1817,7 +1518,7 @@
       ],
       "literature": {
         "publish_year": "2018",
-        "citication": "Chun-Hua Tsai and Peter Brusilovsky. 2018. Beyond the Ranked List: User-Driven Exploration and Diversification of Social Recommendation. In 23rd International Conference on Intelligent User Interfaces (IUI '18). Association for Computing Machinery, New York, NY, USA, 239–250. https://doi.org/10.1145/3172944.3172959"
+        "citication": "Chun-Hua Tsai and Peter Brusilovsky. 2018. Beyond the Ranked List: User-Driven Exploration and Diversification of Social Recommendation. In 23rd International Conference on Intelligent User Interfaces (IUI '18). Association for Computing Machinery, New York, NY, USA, 239\u2013250. https://doi.org/10.1145/3172944.3172959"
       }
     },
     {
@@ -1844,23 +1545,13 @@
             "B_Individual",
             "B_Health",
             "B_38NodeLinkDiagram",
-            "B_43Position",
-            "B_44Size",
-            "B_48ColorHue",
-            "B_07Text",
-            "B_08Line",
             "B_28SearchView",
             "B_29ResultView",
             "B_30ControlView",
             "B_17Tap",
             "B_22Button",
             "B_Tabs",
-            "B_25DropdownBox",
-            "B_49Predict",
-            "B_51Filter",
-            "B_55WeightFeatures",
-            "B_57Adjust",
-            "B_60Explore"
+            "B_25DropdownBox"
           ]
         }
       ],
@@ -1887,7 +1578,6 @@
         "userstudy": "In a user study (N=63), the authors compared NewsViz to an interface based on sliders. While both prototypes yielded high results in terms of transparency, recommendation quality and user satisfaction, NewsViz outperformed its counterpart in the perceived degree of control.",
         "conclusion": ""
       },
-  
       "pattern": [
         {
           "title": "NewsViz treemap",
@@ -1896,33 +1586,16 @@
           "blocks": [
             "B_1Transparency",
             "B_3Controllability",
-
-            "B_49Predict",
-            "B_51Filter",
-            "B_52Select",
-            "B_53Compare",
-
             "B_Individual",
             "B_Relational",
             "B_News",
-
-            "B_12Area",
-            "B_07Text",
-
-            "B_43Position",
-            "B_44Size",
-            "B_47ColorGradient",
-            "B_48ColorHue",
             "B_40Treemap",
-            
             "B_30ControlView",
-
             "B_17Tap",
             "B_22Button",
             "B_20PanScroll",
             "B_SpreadPinch",
             "B_16Hover"
-
           ]
         }
       ],
@@ -1935,7 +1608,7 @@
       ],
       "literature": {
         "publish_year": "2020",
-        "citication": "Johannes Kunkel, Claudia Schwenger, and Jürgen Ziegler. 2020. NewsViz: Depicting and Controlling Preference Profiles Using Interactive Treemaps in News Recommender Systems. In Proceedings of the 28th ACM Conference on User Modeling, Adaptation and Personalization (UMAP '20). Association for Computing Machinery, New York, NY, USA, 126–135. https://doi-org.fhooe.idm.oclc.org/10.1145/3340631.3394869."
+        "citication": "Johannes Kunkel, Claudia Schwenger, and J\u00fcrgen Ziegler. 2020. NewsViz: Depicting and Controlling Preference Profiles Using Interactive Treemaps in News Recommender Systems. In Proceedings of the 28th ACM Conference on User Modeling, Adaptation and Personalization (UMAP '20). Association for Computing Machinery, New York, NY, USA, 126\u2013135. https://doi-org.fhooe.idm.oclc.org/10.1145/3340631.3394869."
       }
     },
     {
@@ -1949,7 +1622,6 @@
         "userstudy": "",
         "conclusion": ""
       },
-  
       "pattern": [
         {
           "title": "Profile Layer",
@@ -1964,21 +1636,10 @@
             "B_Education",
             "B_48Table",
             "B_39BarChart",
-            "B_43Position",
-            "B_44Size",
-            "B_47ColorGradient",
-            "B_06Point",
-            "B_07Text",
-            "B_08Line",
             "B_29ResultView",
             "B_30ControlView",
             "B_17Tap",
-            "B_22Button",
-            "B_49Predict",
-            "B_51Filter",
-            "B_52Select",
-            "B_53Compare",
-            "B_60Explore"
+            "B_22Button"
           ]
         }
       ],
@@ -2018,17 +1679,10 @@
             "B_Relational",
             "B_SocialNetwork",
             "B_35List",
-            "B_43Position",
-            "B_48ColorHue",
-            "B_07Text",
             "B_13Overlay",
             "B_29ResultView",
             "B_16Hover",
-            "B_49Predict",
-            "B_51Filter",
-            "B_55WeightFeatures",
             "B_Tabs",
-            "B_52Select",
             "B_17Tap",
             "B_20PanScroll"
           ]
@@ -2043,7 +1697,7 @@
       ],
       "literature": {
         "publish_year": "2021",
-        "citication": "Mouadh Guesmi, Mohamed Amine Chatti, Laura Vorgerd, Shoeb Joarder, Shadi Zumor, Yiqi Sun, Fangzheng Ji, and Arham Muslim. 2021. On-demand Personalized Explanation for Transparent Recommendation. In Adjunct Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (UMAP '21). Association for Computing Machinery, New York, NY, USA, 246–252. https://doi.org/10.1145/3450614.3464479    "
+        "citication": "Mouadh Guesmi, Mohamed Amine Chatti, Laura Vorgerd, Shoeb Joarder, Shadi Zumor, Yiqi Sun, Fangzheng Ji, and Arham Muslim. 2021. On-demand Personalized Explanation for Transparent Recommendation. In Adjunct Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (UMAP '21). Association for Computing Machinery, New York, NY, USA, 246\u2013252. https://doi.org/10.1145/3450614.3464479    "
       }
     },
     {
@@ -2068,14 +1722,8 @@
             "B_Individual",
             "B_Tourism",
             "B_45TagCloud",
-            "B_44Size",
-            "B_48ColorHue",
-            "B_07Text",
             "B_29ResultView",
-            "B_17Tap",
-            "B_49Predict",
-            "B_53Compare",
-            "B_60Explore"
+            "B_17Tap"
           ]
         }
       ],
@@ -2114,16 +1762,8 @@
             "B_Individual",
             "B_Relational",
             "B_36ScatterPlot",
-            "B_43Position",
-            "B_48ColorHue",
-            "B_06Point",
             "B_30ControlView",
-            "B_14Drag",
-            "B_49Predict",
-            "B_50Sort",
-            "B_52Select",
-            "B_55WeightFeatures",
-            "B_60Explore"
+            "B_14Drag"
           ]
         }
       ],
@@ -2136,7 +1776,7 @@
       ],
       "literature": {
         "publish_year": "2015",
-        "citication": "Antti Kangasrääsiö, Dorota Glowacka, and Samuel Kaski. 2015. Improving Controllability and Predictability of Interactive Recommendation Interfaces for Exploratory Search. In Proceedings of the 20th International Conference on Intelligent User Interfaces (IUI '15). Association for Computing Machinery, New York, NY, USA, 247–251. https://doi.org/10.1145/2678025.2701371    "
+        "citication": "Antti Kangasr\u00e4\u00e4si\u00f6, Dorota Glowacka, and Samuel Kaski. 2015. Improving Controllability and Predictability of Interactive Recommendation Interfaces for Exploratory Search. In Proceedings of the 20th International Conference on Intelligent User Interfaces (IUI '15). Association for Computing Machinery, New York, NY, USA, 247\u2013251. https://doi.org/10.1145/2678025.2701371    "
       }
     },
     {
@@ -2154,7 +1794,7 @@
         {
           "title": "Result View",
           "image": "35-tourist-spot.jpg",
-          "description": "The System recommends tourist spots based on the estimation of users’ preferences of traveling plans from their past personal travel photos by using generic object recognition. First keywords of subject information taken in the photos is aqired, afterwards the cooccurrence of the keywords is represented by a graph visualization technique. The technique calculates the distances between arbitrary pairs of clusters according to the number of connecting edges and similarity of feature value vectors, and finally places the clusters based on the distances.           ",
+          "description": "The System recommends tourist spots based on the estimation of users\u2019 preferences of traveling plans from their past personal travel photos by using generic object recognition. First keywords of subject information taken in the photos is aqired, afterwards the cooccurrence of the keywords is represented by a graph visualization technique. The technique calculates the distances between arbitrary pairs of clusters according to the number of connecting edges and similarity of feature value vectors, and finally places the clusters based on the distances.           ",
           "blocks": [
             "B_1Transparency",
             "B_4ColdStart",
@@ -2164,14 +1804,9 @@
             "B_Relational",
             "B_Tourism",
             "B_38NodeLinkDiagram",
-            "B_43Position",
-            "B_07Text",
-            "B_10Thumbnail",
             "B_29ResultView",
             "B_17Tap",
-            "B_SpreadPinch",
-            "B_53Compare",
-            "B_60Explore"
+            "B_SpreadPinch"
           ]
         }
       ],
@@ -2209,11 +1844,9 @@
             "B_Tourism",
             "B_31SingleResult",
             "B_35List",
-            "B_07Text",
             "B_30ControlView",
             "B_23InputForm",
-            "B_25DropdownBox",
-            "B_57Adjust"
+            "B_25DropdownBox"
           ]
         },
         {
@@ -2225,16 +1858,8 @@
             "B_Activity",
             "B_Tourism",
             "B_35List",
-            "B_48ColorHue",
-            "B_43Position",
-            "B_07Text",
-            "B_09Icon",
             "B_29ResultView",
-            "B_17Tap",
-            "B_49Predict",
-            "B_50Sort",
-            "B_53Compare",
-            "B_60Explore"
+            "B_17Tap"
           ]
         }
       ],
@@ -2247,7 +1872,7 @@
       ],
       "literature": {
         "publish_year": "2021",
-        "citication": "Bernd Ludwig, Selina Meyer, Julian Dietz, Gregor Donabauer, Andreas Pfaffelhuber, and David Elsweiler. 2021. Recommending Better Food Choices for Clinically Obese Users. In Adjunct Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (UMAP '21). Association for Computing Machinery, New York, NY, USA, 79–82. https://doi.org/10.1145/3450614.3461677"
+        "citication": "Bernd Ludwig, Selina Meyer, Julian Dietz, Gregor Donabauer, Andreas Pfaffelhuber, and David Elsweiler. 2021. Recommending Better Food Choices for Clinically Obese Users. In Adjunct Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (UMAP '21). Association for Computing Machinery, New York, NY, USA, 79\u201382. https://doi.org/10.1145/3450614.3461677"
       }
     },
     {
@@ -2273,14 +1898,11 @@
             "B_Activity",
             "B_Tourism",
             "B_35List",
-            "B_43Position",
             "B_30ControlView",
             "B_17Tap",
             "B_22Button",
             "B_25DropdownBox",
-            "B_Radio",
-            "B_49Predict",
-            "B_57Adjust"
+            "B_Radio"
           ]
         },
         {
@@ -2294,12 +1916,8 @@
             "B_Activity",
             "B_Tourism",
             "B_34ProcessChart",
-            "B_43Position",
-            "B_07Text",
             "B_29ResultView",
-            "B_17Tap",
-            "B_53Compare",
-            "B_60Explore"
+            "B_17Tap"
           ]
         }
       ],
@@ -2337,16 +1955,9 @@
             "B_Activity",
             "B_e-Commerce",
             "B_35List",
-            "B_07Text",
-            "B_09Icon",
-            "B_43Position",
             "B_29ResultView",
             "B_17Tap",
-            "B_49Predict",
-            "B_54Highlight",
-            "B_56Rate",
-            "B_20PanScroll",
-            "B_58ShowMore"
+            "B_20PanScroll"
           ]
         },
         {
@@ -2360,15 +1971,8 @@
             "B_Relational",
             "B_e-Commerce",
             "B_38NodeLinkDiagram",
-            "B_09Icon",
-            "B_43Position",
-            "B_10Thumbnail",
             "B_29ResultView",
-            "B_17Tap",
-            "B_49Predict",
-            "B_52Select",
-            "B_53Compare",
-            "B_60Explore"
+            "B_17Tap"
           ]
         }
       ],
@@ -2405,14 +2009,10 @@
             "B_Activity",
             "B_Education",
             "B_3Controllability",
-            "B_60Explore",
             "B_37GeograpicMap",
-            "B_06Point",
             "B_48Table",
-            "B_43Position",
             "B_21Slider",
             "B_14Drag",
-            "B_51Filter",
             "B_28SearchView",
             "B_30ControlView"
           ]
@@ -2426,14 +2026,7 @@
             "B_Activity",
             "B_Education",
             "B_2Justification",
-            "B_49Predict",
-            "B_58ShowMore",
-            "B_06Point",
-            "B_09Icon",
-            "B_43Position",
             "B_17Tap",
-            "B_46Shape",
-            "B_48ColorHue",
             "B_48Table",
             "B_29ResultView"
           ]
@@ -2448,7 +2041,7 @@
       ],
       "literature": {
         "publish_year": "2019",
-        "citication": "Francisco Gutiérrez, Sven Charleer, Robin De Croon, Nyi Nyi Htun, Gerd Goetschalckx, and Katrien Verbert. 2019. Explaining and exploring job recommendations: a user-driven approach for interacting with knowledge-based job recommender systems. In Proceedings of the 13th ACM Conference on Recommender Systems (RecSys '19). Association for Computing Machinery, New York, NY, USA, 60–68. https://doi.org/10.1145/3298689.3347001    "
+        "citication": "Francisco Guti\u00e9rrez, Sven Charleer, Robin De Croon, Nyi Nyi Htun, Gerd Goetschalckx, and Katrien Verbert. 2019. Explaining and exploring job recommendations: a user-driven approach for interacting with knowledge-based job recommender systems. In Proceedings of the 13th ACM Conference on Recommender Systems (RecSys '19). Association for Computing Machinery, New York, NY, USA, 60\u201368. https://doi.org/10.1145/3298689.3347001    "
       }
     },
     {
@@ -2471,13 +2064,8 @@
             "B_5Explorability",
             "B_Entertainment",
             "B_Location",
-            "B_49Predict",
-            "B_60Explore",
-            "B_48ColorHue",
             "B_SpreadPinch",
             "B_37GeograpicMap",
-            "B_09Icon",
-            "B_43Position",
             "B_29ResultView"
           ]
         }
@@ -2501,7 +2089,7 @@
       "imageName": "41_CoFeel.png",
       "imageBlur": "blur",
       "details": {
-        "description": "CoFeel is an emotion annotation tool to elicit users’ emotional feedback for recommended items. It is integrated into GroupFun, a group music recommender system, which provides emotion awareness features.  The interface consists of two components: individual emotion annotation and group emotion visualization.",
+        "description": "CoFeel is an emotion annotation tool to elicit users\u2019 emotional feedback for recommended items. It is integrated into GroupFun, a group music recommender system, which provides emotion awareness features.  The interface consists of two components: individual emotion annotation and group emotion visualization.",
         "userstudy": "",
         "conclusion": ""
       },
@@ -2509,19 +2097,12 @@
         {
           "title": "CoFeel Emotion interface",
           "image": "41_Pattern1.png",
-          "description": "CoFeel contains eight spikes; each presents an emotion with five scales and in a color. The authors select the eight emotions (excited, happy, satisfied, relaxed, sleepy, sad, distressed, and irritated) from Russels’ complex and consider their positions in valencearousal dimensions. Aware that the emotional meanings of colors vary by cultures, the authors adopt common knowledge, e.g., yellow for joy and blue for calm and then turn Hatt’s color palette and try to make the colors match the emotional meaning. The colors are more for visual appealing than emotional meaning. Users can annotate emotions with CoFeel by holding the phone, rolling the ball around the surface of emotion plate, and clicking the “Update Mood” to confirm the annotation. ",
+          "description": "CoFeel contains eight spikes; each presents an emotion with five scales and in a color. The authors select the eight emotions (excited, happy, satisfied, relaxed, sleepy, sad, distressed, and irritated) from Russels\u2019 complex and consider their positions in valencearousal dimensions. Aware that the emotional meanings of colors vary by cultures, the authors adopt common knowledge, e.g., yellow for joy and blue for calm and then turn Hatt\u2019s color palette and try to make the colors match the emotional meaning. The colors are more for visual appealing than emotional meaning. Users can annotate emotions with CoFeel by holding the phone, rolling the ball around the surface of emotion plate, and clicking the \u201cUpdate Mood\u201d to confirm the annotation. ",
           "blocks": [
             "B_3Controllability",
-            "B_56Rate",
             "B_Individual",
             "B_Entertainment",
-            "B_48ColorHue",
-            "B_43Position",
-            "B_44Size",
-            "B_06Point",
-            "B_11Glyph",
             "B_30ControlView",
-            "B_52Select",
             "B_14Drag",
             "B_22Button",
             "B_17Tap"
@@ -2530,14 +2111,11 @@
         {
           "title": "Group Emotion Representation",
           "image": "41_CoFeel.png",
-          "description": "The annotation is recorded and visualized in the timeline of the song as group emotions, together with other group members’ annotations. The group emotions are visualized as music score, distinguished by colors, corresponding to color wheel. Intensities are mapped to the position of the lines, e.g. the beginning of ‘Fariytale’ is rated as ‘relaxed’, with the level of 5 out 5.",
+          "description": "The annotation is recorded and visualized in the timeline of the song as group emotions, together with other group members\u2019 annotations. The group emotions are visualized as music score, distinguished by colors, corresponding to color wheel. Intensities are mapped to the position of the lines, e.g. the beginning of \u2018Fariytale\u2019 is rated as \u2018relaxed\u2019, with the level of 5 out 5.",
           "blocks": [
             "B_2Justification",
             "B_Relational",
             "B_Entertainment",
-            "B_48ColorHue",
-            "B_43Position",
-            "B_06Point",
             "B44_Line_chat",
             "B_29ResultView"
           ]
@@ -2552,7 +2130,7 @@
       ],
       "literature": {
         "publish_year": "2014",
-        "citication": " Yu Chen and Pearl Pu. (2014). Designing emotion awareness interface for group recommender systems. In Proceedings of the 2014 International Working Conference on Advanced Visual Interfaces (AVI '14). Association for Computing Machinery, New York, NY, USA, 347–348. https://doi.org/10.1145/2598153.2600034"
+        "citication": " Yu Chen and Pearl Pu. (2014). Designing emotion awareness interface for group recommender systems. In Proceedings of the 2014 International Working Conference on Advanced Visual Interfaces (AVI '14). Association for Computing Machinery, New York, NY, USA, 347\u2013348. https://doi.org/10.1145/2598153.2600034"
       }
     },
     {
@@ -2573,11 +2151,8 @@
           "description": "Panel 1 shows basic information of a Twitter user, including recent tweet posts from this user.",
           "blocks": [
             "B_2Justification",
-            "B_58ShowMore",
             "B_Individual",
             "B_SocialNetwork",
-            "B_07Text",
-            "B_43Position",
             "B_35List",
             "B_30ControlView",
             "B_20PanScroll"
@@ -2586,20 +2161,13 @@
         {
           "title": "Panel 2",
           "image": "42_SystemU.png",
-          "description": "Panel 2 shows a visualization of personality portrait, including Big Five personality, fundamental needs, human values and social activities. The visualization enables users to expand a trait of interest to see subtraits. For example, a user can have a better understanding of “Neuroticism” by expanding this sector to look at its subtraits, such as “Anxiety”, “Anger”, “Depression” and “Self-consciousness”.",
+          "description": "Panel 2 shows a visualization of personality portrait, including Big Five personality, fundamental needs, human values and social activities. The visualization enables users to expand a trait of interest to see subtraits. For example, a user can have a better understanding of \u201cNeuroticism\u201d by expanding this sector to look at its subtraits, such as \u201cAnxiety\u201d, \u201cAnger\u201d, \u201cDepression\u201d and \u201cSelf-consciousness\u201d.",
           "blocks": [
             "B_2Justification",
-            "B_53Compare",
             "B_Activity",
             "B_SocialNetwork",
-            "B_48ColorHue",
-            "B_43Position",
-            "B_44Size",
-            "B_12Area",
             "B_43Sunburst",
-            "B_58ShowMore",
             "B_17Tap",
-            "B_52Select",
             "B_30ControlView"
           ]
         },
@@ -2608,12 +2176,8 @@
           "image": "42_SystemU.png",
           "description": "Panel 3 shows a list of people who are recommended for certain tasks.",
           "blocks": [
-            "B_58ShowMore",
             "B_Relational",
             "B_SocialNetwork",
-            "B_07Text",
-            "B_10Thumbnail",
-            "B_43Position",
             "B_35List",
             "B_29ResultView",
             "B_20PanScroll"
@@ -2629,7 +2193,7 @@
       ],
       "literature": {
         "publish_year": "2014",
-        "citication": "Hernan Badenes, Mateo N. Bengualid, Jilin Chen, Liang Gou, Eben Haber, Jalal Mahmud, Jeffrey W. Nichols, Aditya Pal, Jerald Schoudt, Barton A. Smith, Ying Xuan, Huahai Yang, and Michelle X. Zhou. 2014. System U: automatically deriving personality traits from social media for people recommendation. In Proceedings of the 8th ACM Conference on Recommender systems (RecSys '14). Association for Computing Machinery, New York, NY, USA, 373–374. https://doi.org/10.1145/2645710.2645719"
+        "citication": "Hernan Badenes, Mateo N. Bengualid, Jilin Chen, Liang Gou, Eben Haber, Jalal Mahmud, Jeffrey W. Nichols, Aditya Pal, Jerald Schoudt, Barton A. Smith, Ying Xuan, Huahai Yang, and Michelle X. Zhou. 2014. System U: automatically deriving personality traits from social media for people recommendation. In Proceedings of the 8th ACM Conference on Recommender systems (RecSys '14). Association for Computing Machinery, New York, NY, USA, 373\u2013374. https://doi.org/10.1145/2645710.2645719"
       }
     },
     {
@@ -2647,18 +2211,13 @@
         {
           "title": "2D Cubic Space",
           "image": "43_MusicCube.png",
-          "description": "MusiCube displays a set of icons corresponding to tunes in a cubic space like scatterplots. It assigns one of predefined four colors to the icons, where the colors corresponding to ”positively listened”, ”negatively listened”, ”being suggested”, and ”not suggested yet”. Users can listen to the tunes and input ”positive” or ”negative” evaluation. After inputting the evaluations, it selects other several tunes as next generation items, and again switches the colors of icons. Repeating these processes, MusiCube learns preferences of users and finally suggests tunes in a higher positive evaluation rate.",
+          "description": "MusiCube displays a set of icons corresponding to tunes in a cubic space like scatterplots. It assigns one of predefined four colors to the icons, where the colors corresponding to \u201dpositively listened\u201d, \u201dnegatively listened\u201d, \u201dbeing suggested\u201d, and \u201dnot suggested yet\u201d. Users can listen to the tunes and input \u201dpositive\u201d or \u201dnegative\u201d evaluation. After inputting the evaluations, it selects other several tunes as next generation items, and again switches the colors of icons. Repeating these processes, MusiCube learns preferences of users and finally suggests tunes in a higher positive evaluation rate.",
           "blocks": [
             "B_2Justification",
             "B_3Controllability",
             "B_Entertainment",
             "B_Activity",
-            "B_60Explore",
-            "B_53Compare",
             "B_36ScatterPlot",
-            "B_48ColorHue",
-            "B_43Position",
-            "B_06Point",
             "B_29ResultView"
           ]
         },
@@ -2668,13 +2227,10 @@
           "description": "Each tune has multi-dimensional musical feature values, and users can select two of the dimensions which are assigned to X- and Y-axes of the scatterplots space.",
           "blocks": [
             "B_3Controllability",
-            "B_57Adjust",
             "B_22Button",
             "B_Radio",
             "B_Entertainment",
             "B_Activity",
-            "B_07Text",
-            "B_43Position",
             "B_35List",
             "B_30ControlView"
           ]
@@ -2689,7 +2245,7 @@
       ],
       "literature": {
         "publish_year": "2011",
-        "citication": "Yuri Saito and Takayuki Itoh. 2011. MusiCube: a visual music recommendation system featuring interactive evolutionary computing. In Proceedings of the 2011 Visual Information Communication - International Symposium (VINCI '11). Association for Computing Machinery, New York, NY, USA, Article 5, 1–6. https://doi.org/10.1145/2016656.2016661."
+        "citication": "Yuri Saito and Takayuki Itoh. 2011. MusiCube: a visual music recommendation system featuring interactive evolutionary computing. In Proceedings of the 2011 Visual Information Communication - International Symposium (VINCI '11). Association for Computing Machinery, New York, NY, USA, Article 5, 1\u20136. https://doi.org/10.1145/2016656.2016661."
       }
     },
     {
@@ -2707,7 +2263,7 @@
         {
           "title": "Node-Link View",
           "image": "44.png",
-          "description": "The visualization UI consists of a responsive graph. Each node within the graph represents either a keyword or a publication that match the users’ research profiles or their interests. The graph reacts to every interaction of the user, thereby immediately displaying the consequences of the user’s actions. Additionally, the graph acts as a substitute for the conventional ranking visualization of results. Because of that, the user is able to better distinguish between the recommended items in respect of their value to the user and also their discerning factors between one another.",
+          "description": "The visualization UI consists of a responsive graph. Each node within the graph represents either a keyword or a publication that match the users\u2019 research profiles or their interests. The graph reacts to every interaction of the user, thereby immediately displaying the consequences of the user\u2019s actions. Additionally, the graph acts as a substitute for the conventional ranking visualization of results. Because of that, the user is able to better distinguish between the recommended items in respect of their value to the user and also their discerning factors between one another.",
           "blocks": [
             "B_1Transparency",
             "B_5Explorability",
@@ -2715,18 +2271,8 @@
             "B_Science",
             "B_Relational",
             "B_Individual",
-            "B_60Explore",
-            "B_59Search",
-            "B_58ShowMore",
-            "B_53Compare",
-            "B_52Select",
             "B_23InputForm",
             "B_17Tap",
-            "B_07Text",
-            "B_06Point",
-            "B_48ColorHue",
-            "B_43Position",
-            "B_46Shape",
             "B_38NodeLinkDiagram",
             "B_29ResultView",
             "B_28SearchView"
@@ -2764,17 +2310,10 @@
           "blocks": [
             "B_4ColdStart",
             "B_5Explorability",
-            "B_52Select",
             "B_17Tap",
             "B_SocialNetwork",
             "B_Relational",
-            "B_60Explore",
-            "B_53Compare",
-            "B_48ColorHue",
-            "B_44Size",
-            "B_43Position",
             "B_45TagCloud",
-            "B_07Text",
             "B_28SearchView"
           ]
         },
@@ -2785,9 +2324,6 @@
           "blocks": [
             "B_Relational",
             "B_SocialNetwork",
-            "B_07Text",
-            "B_10Thumbnail",
-            "B_43Position",
             "B_35List",
             "B_29ResultView"
           ]
@@ -2802,7 +2338,7 @@
       ],
       "literature": {
         "publish_year": "2010",
-        "citication": "Shiwan Zhao, Michelle X. Zhou, Quan Yuan, Xiatian Zhang, Wentao Zheng, and Rongyao Fu. 2010. Who is talking about what: social map-based recommendation for content-centric social websites. In Proceedings of the fourth ACM conference on Recommender systems (RecSys '10). Association for Computing Machinery, New York, NY, USA, 143–150. https://doi.org/10.1145/1864708.1864737."
+        "citication": "Shiwan Zhao, Michelle X. Zhou, Quan Yuan, Xiatian Zhang, Wentao Zheng, and Rongyao Fu. 2010. Who is talking about what: social map-based recommendation for content-centric social websites. In Proceedings of the fourth ACM conference on Recommender systems (RecSys '10). Association for Computing Machinery, New York, NY, USA, 143\u2013150. https://doi.org/10.1145/1864708.1864737."
       }
     },
     {
@@ -2812,7 +2348,7 @@
       "imageName": "46.png",
       "imageBlur": "blur",
       "details": {
-        "description": "MyMovieMixer (MMM) allows users to incrementally specify their preferences by selecting filter criteria from a set of facets. For facets with large number of values, a search function is provided. Users can also weight each criterion to change its influence on the resulting recommendations. The system calculates an overall relevance score for each movie by aggregating the movie’s relevance values with respect to each criterion selected. Depending on the respective facet, Boolean and fuzzy filtering, as well as conventional collaborative and content-based recommendation algorithms are employed.",
+        "description": "MyMovieMixer (MMM) allows users to incrementally specify their preferences by selecting filter criteria from a set of facets. For facets with large number of values, a search function is provided. Users can also weight each criterion to change its influence on the resulting recommendations. The system calculates an overall relevance score for each movie by aggregating the movie\u2019s relevance values with respect to each criterion selected. Depending on the respective facet, Boolean and fuzzy filtering, as well as conventional collaborative and content-based recommendation algorithms are employed.",
         "userstudy": "",
         "conclusion": ""
       },
@@ -2824,13 +2360,8 @@
           "blocks": [
             "B_3Controllability",
             "B_1Transparency",
-            "B_51Filter",
-            "B_59Search",
             "B_Individual",
             "B_Entertainment",
-            "B_48ColorHue",
-            "B_07Text",
-            "B_10Thumbnail",
             "B_32Tile",
             "B_23InputForm",
             "B_25DropdownBox",
@@ -2843,14 +2374,8 @@
           "description": "MMM allows to directly manipulate the different filters and weights and immediately shows the effect on the resulting recommendations, thus increasing user control and making it easy to understand the effect of the different settings. The work area contains i) tiles visualizing a certain criterion each, ii) sliders to adjust a tile's weight for the recommendations, and iii) a visualization of the number of movies fulfilling the respective criterion.",
           "blocks": [
             "B_3Controllability",
-            "B_57Adjust",
-            "B_55WeightFeatures",
             "B_Individual",
             "B_Entertainment",
-            "B_48ColorHue",
-            "B_09Icon",
-            "B_07Text",
-            "B_10Thumbnail",
             "B_35List",
             "B_21Slider",
             "B_30ControlView"
@@ -2861,15 +2386,9 @@
           "image": "46.png",
           "description": "The result area Result Area displays a number of results (movie items with thumbnail image and title) and a button to dismiss a recommendation.",
           "blocks": [
-
             "B_Individual",
             "B_Entertainment",
-            "B_53Compare",
-            "B_52Select",
             "B_32Tile",
-            "B_43Position",
-            "B_07Text",
-            "B_10Thumbnail",
             "B_22Button",
             "B_29ResultView"
           ]
@@ -2884,7 +2403,7 @@
       ],
       "literature": {
         "publish_year": "2015",
-        "citication": "Benedikt Loepp, Katja Herrmanny, and Jürgen Ziegler. 2015. Blended Recommending: Integrating Interactive Information Filtering and Algorithmic Recommender Techniques. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15). Association for Computing Machinery, New York, NY, USA, 975–984. https://doi.org/10.1145/2702123.2702496."
+        "citication": "Benedikt Loepp, Katja Herrmanny, and J\u00fcrgen Ziegler. 2015. Blended Recommending: Integrating Interactive Information Filtering and Algorithmic Recommender Techniques. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15). Association for Computing Machinery, New York, NY, USA, 975\u2013984. https://doi.org/10.1145/2702123.2702496."
       }
     },
     {
@@ -2902,16 +2421,12 @@
         {
           "title": "Words Map",
           "image": "47.png",
-          "description": "Words Map facilitates users’ recognition of the relations among words and thus helps them discover the words related to other words for the purpose of finding serendipitous items. In Words Map, the meanings of basic words which are close to each other are similar or associated. On the other hand, if a basic word is antithetical to others on our Words-Map, they are uncorrelated. Therefore, Words Map can construct three groups which are arranged in a concentric pattern based on their positions.",
+          "description": "Words Map facilitates users\u2019 recognition of the relations among words and thus helps them discover the words related to other words for the purpose of finding serendipitous items. In Words Map, the meanings of basic words which are close to each other are similar or associated. On the other hand, if a basic word is antithetical to others on our Words-Map, they are uncorrelated. Therefore, Words Map can construct three groups which are arranged in a concentric pattern based on their positions.",
           "blocks": [
             "B_8Serendipity",
-            "B_60Explore",
             "B_Individual",
             "B_Relational",
             "B_Science",
-            "B_43Position",
-            "B_07Text",
-            "B_06Point",
             "B_36ScatterPlot",
             "B_41Cluster",
             "B_29ResultView"
@@ -2949,12 +2464,8 @@
           "blocks": [
             "B_3Controllability",
             "B_4ColdStart",
-
-            "B_52Select",
             "B_Individual",
             "B_Entertainment",
-            "B_48ColorHue",
-            "B_07Text",
             "B_35List",
             "B_26Toggle",
             "B_30ControlView"
@@ -2966,16 +2477,9 @@
           "description": "The visualization represents different parameters that can be used to adjust recommendations. Users can for instance increase the weight of parameters such as danceability and energy. As explained above, two different visualizations were implemented to enable users to adjust parameters weights: sliders (this pattern) and a more advanced, potentially more appealing, radar chart (Pattern 3).",
           "blocks": [
             "B_3Controllability",
-
-            "B_57Adjust",
-            "B_55WeightFeatures",
             "B_Individual",
             "B_Entertainment",
-            "B_48ColorHue",
-            "B_44Size",
-            "B_08Line",
             "B_35List",
-            "B_07Text",
             "B_21Slider",
             "B_30ControlView"
           ]
@@ -2986,16 +2490,8 @@
           "description": "The visualization represents different parameters that can be used to adjust recommendations. Users can for instance increase the weight of parameters such as danceability and energy. As explained above, two different visualizations were implemented to enable users to adjust parameters weights: sliders (Pattern 2) and a more advanced, potentially more appealing, radar chart (this pattern).",
           "blocks": [
             "B_3Controllability",
-
             "B_Individual",
             "B_Entertainment",
-            "B_57Adjust",
-            "B_55WeightFeatures",
-            "B_48ColorHue",
-            "B_43Position",
-            "B_08Line",
-            "B_06Point",
-            "B_12Area",
             "B_14Drag",
             "B_46RadarChart",
             "B_30ControlView"
@@ -3009,12 +2505,6 @@
             "B_3Controllability",
             "B_Individual",
             "B_Entertainment",
-            "B_50Sort",
-            "B_56Rate",
-            "B_09Icon",
-            "B_48ColorHue",
-            "B_43Position",
-            "B_07Text",
             "B_35List",
             "B_22Button",
             "B_29ResultView"
@@ -3030,7 +2520,7 @@
       ],
       "literature": {
         "publish_year": "2018",
-        "citication": "Martijn Millecamp, Nyi Nyi Htun, Yucheng Jin, and Katrien Verbert. 2018. Controlling Spotify Recommendations: Effects of Personal Characteristics on Music Recommender User Interfaces. In Proceedings of the 26th Conference on User Modeling, Adaptation and Personalization (UMAP '18). Association for Computing Machinery, New York, NY, USA, 101–109. https://doi.org/10.1145/3209219.3209223."
+        "citication": "Martijn Millecamp, Nyi Nyi Htun, Yucheng Jin, and Katrien Verbert. 2018. Controlling Spotify Recommendations: Effects of Personal Characteristics on Music Recommender User Interfaces. In Proceedings of the 26th Conference on User Modeling, Adaptation and Personalization (UMAP '18). Association for Computing Machinery, New York, NY, USA, 101\u2013109. https://doi.org/10.1145/3209219.3209223."
       }
     },
     {
@@ -3054,14 +2544,6 @@
             "B_Science",
             "B_Relational",
             "B_Individual",
-            "B_57Adjust",
-            "B_52Select",
-            "B_43Position",
-            "B_48ColorHue",
-            "B_47ColorGradient",
-            "B_44Size",
-            "B_07Text",
-            "B_12Area",
             "B_17Tap",
             "B_Checkbox",
             "B_25DropdownBox",
@@ -3081,7 +2563,7 @@
       ],
       "literature": {
         "publish_year": "2013",
-        "citication": "Fedor Bakalov, Marie-Jean Meurs, Birgitta König-Ries, Bahar Sateli, René Witte, Greg Butler, and Adrian Tsang. 2013. An approach to controlling user models and personalization effects in recommender systems. In Proceedings of the 2013 international conference on Intelligent user interfaces (IUI '13). Association for Computing Machinery, New York, NY, USA, 49–56. https://doi.org/10.1145/2449396.2449405."
+        "citication": "Fedor Bakalov, Marie-Jean Meurs, Birgitta K\u00f6nig-Ries, Bahar Sateli, Ren\u00e9 Witte, Greg Butler, and Adrian Tsang. 2013. An approach to controlling user models and personalization effects in recommender systems. In Proceedings of the 2013 international conference on Intelligent user interfaces (IUI '13). Association for Computing Machinery, New York, NY, USA, 49\u201356. https://doi.org/10.1145/2449396.2449405."
       }
     },
     {
@@ -3091,7 +2573,7 @@
       "imageName": "50.png",
       "imageBlur": "blur",
       "details": {
-        "description": "Tagsplanation justifies recommendations by representing the relationship between tag relevance (the degree to which a tag describes an item) and tag preference (the user’s sentiment towards the tag).",
+        "description": "Tagsplanation justifies recommendations by representing the relationship between tag relevance (the degree to which a tag describes an item) and tag preference (the user\u2019s sentiment towards the tag).",
         "userstudy": "",
         "conclusion": ""
       },
@@ -3105,15 +2587,8 @@
             "B_Relational",
             "B_Individual",
             "B_Entertainment",
-            "B_50Sort",
-            "B_53Compare",
             "B_48Table",
-            "B_07Text",
-            "B_09Icon",
-            "B_08Line",
-            "B_44Size",
             "B_39BarChart",
-            "B_43Position",
             "B_29ResultView"
           ]
         }
@@ -3127,7 +2602,7 @@
       ],
       "literature": {
         "publish_year": "2009",
-        "citication": "Jesse Vig, Shilad Sen, and John Riedl. 2009. Tagsplanations: explaining recommendations using tags. In Proceedings of the 14th international conference on Intelligent user interfaces (IUI '09). Association for Computing Machinery, New York, NY, USA, 47–56. https://doi.org/10.1145/1502650.1502661."
+        "citication": "Jesse Vig, Shilad Sen, and John Riedl. 2009. Tagsplanations: explaining recommendations using tags. In Proceedings of the 14th international conference on Intelligent user interfaces (IUI '09). Association for Computing Machinery, New York, NY, USA, 47\u201356. https://doi.org/10.1145/1502650.1502661."
       }
     },
     {
@@ -3145,20 +2620,13 @@
         {
           "title": "Profile Layer",
           "image": "51-1.png",
-          "description": "Interface with the different parts highlighted in purple. A: Playlist, B: Search box, C: Preference of the user, D: Scatter plot, E: Recommendations, F: Switch for explanations. The latter two (E&F) form the Pattern 2.",
+          "description": "Interface with the different parts highlighted in purple.\u00a0A: Playlist,\u00a0B: Search box,\u00a0C: Preference of the user,\u00a0D: Scatter plot,\u00a0E: Recommendations,\u00a0F: Switch for explanations. The latter two (E&F) form the Pattern 2.",
           "blocks": [
             "B_5Explorability",
-            "B_59Search",
-            "B_55WeightFeatures",
             "B_21Slider",
             "B_36ScatterPlot",
             "B_Individual",
             "B_Entertainment",
-            "B_43Position",
-            "B_44Size",
-            "B_47ColorGradient",
-            "B_06Point",
-            "B_09Icon",
             "B_23InputForm",
             "B_28SearchView",
             "B_29ResultView"
@@ -3167,18 +2635,12 @@
         {
           "title": "Context Layer",
           "image": "51-2.png",
-          "description": "Different possible explanations including i) a bar chart to display the differences between the audio features of the song and the preference of the user, ii) explanation of the fit between the song and the preference of the user, iii) Scatter plot of the recommended songs, and iv) explanation of the source song on which the recommended song is based.",
+          "description": "Different possible explanations including i) a bar chart to display the differences between the audio features of the song and the preference of the user, ii) explanation of the fit between the song and the preference of the user,\u00a0iii)\u00a0Scatter plot of the recommended songs, and\u00a0iv)\u00a0explanation of the source song on which the recommended song is based.",
           "blocks": [
             "B_2Justification",
-            "B_53Compare",
             "B_Individual",
             "B_Relational",
             "B_Entertainment",
-            "B_44Size",
-            "B_48ColorHue",
-            "B_07Text",
-            "B_08Line",
-            "B_52Select",
             "B_17Tap",
             "B_22Button",
             "B_39BarChart",
@@ -3195,10 +2657,9 @@
       ],
       "literature": {
         "publish_year": "2022",
-        "citication": "Martijn, M., Conati, C. & Verbert, K. “Knowing me, knowing you”: personalized explanations for a music recommender system. User Model User-Adap Inter 32, 215–252 (2022). https://doi.org/10.1007/s11257-021-09304-9        "
+        "citication": "Martijn, M., Conati, C. & Verbert, K. \u201cKnowing me, knowing you\u201d: personalized explanations for a music recommender system. User Model User-Adap Inter 32, 215\u2013252 (2022). https://doi.org/10.1007/s11257-021-09304-9        "
       }
     },
-
     {
       "nr": 52,
       "uid": "MrTaggy",
@@ -3207,7 +2668,7 @@
       "imageBlur": "blur",
       "details": {
         "description": "The paper presents the design of a tag-based exploratory system and detail an experiment in understanding its effectiveness. The tagbased search system allows users to utilize relevance feedback on tags to indicate their interest in various topics, enabling rapid exploration of the topic space.",
-        "userstudy": "The study’s first insights regarding the use of the exploratory tag search system are promising that the tag search browser can support users in their exploratory search process. The results suggest that users’ learning and investigation activities are fostered by both relevance feedback mechanisms as well as related tag ontologies that give a kind of scaffolding support to domain understanding.",
+        "userstudy": "The study\u2019s first insights regarding the use of the exploratory tag search system are promising that the tag search browser can support users in their exploratory search process. The results suggest that users\u2019 learning and investigation activities are fostered by both relevance feedback mechanisms as well as related tag ontologies that give a kind of scaffolding support to domain understanding.",
         "conclusion": ""
       },
       "pattern": [
@@ -3221,12 +2682,7 @@
             "B_Activity",
             "B_Science",
             "B_Education",
-            "B_55WeightFeatures",
-            "B_58ShowMore",
-            "B_07Text",
-            "B_09Icon",
             "B_35List",
-            "B_43Position",
             "B_22Button",
             "B_17Tap",
             "B_30ControlView"
@@ -3235,21 +2691,14 @@
         {
           "title": "Related Page Feedback (right)",
           "image": "59_MrTaggy.png",
-          "description": "Right Pattern: By clicking on the downward arrow a search result can be excluded from the results list whereas by clicking on the upward arrow the search result can be emphasized which leads to an emphasis of other similar Web pages. In addition, users can refine the search result using tags associated with each of the search results. During search, result snippets are displayed in the search results list. In addition to the title and the URL of the corresponding Web page, instead of a short summary description, a series of tags are displayed. These tags are applied by other users to label the corresponding Web page. When hovering over tags presented in the snippet, up and down arrows are displayed to enable relevance feedbacks on these tags as well. Users’ relevance feedback actions lead to an immediate reordering or filtering of the results list, since the relevance feedback and the search result list are tightly coupled in the interface.",
+          "description": "Right Pattern: By clicking on the downward arrow a search result can be excluded from the results list whereas by clicking on the upward arrow the search result can be emphasized which leads to an emphasis of other similar Web pages. In addition, users can refine the search result using tags associated with each of the search results. During search, result snippets are displayed in the search results list. In addition to the title and the URL of the corresponding Web page, instead of a short summary description, a series of tags are displayed. These tags are applied by other users to label the corresponding Web page. When hovering over tags presented in the snippet, up and down arrows are displayed to enable relevance feedbacks on these tags as well. Users\u2019 relevance feedback actions lead to an immediate reordering or filtering of the results list, since the relevance feedback and the search result list are tightly coupled in the interface.",
           "blocks": [
             "B_3Controllability",
             "B_4ColdStart",
             "B_Activity",
             "B_Science",
             "B_Education",
-            "B_59Search",
-            "B_50Sort",
-            "B_55WeightFeatures",
-            "B_07Text",
-            "B_09Icon",
             "B_35List",
-            "B_43Position",
-            "B_44Size",
             "B_45TagCloud",
             "B_22Button",
             "B_17Tap",
@@ -3267,10 +2716,9 @@
       ],
       "literature": {
         "publish_year": "2009",
-        "citication": "Yvonne Kammerer, Rowan Nairn, Peter Pirolli, and Ed H. Chi. 2009. Signpost from the masses: learning effects in an exploratory social tag search browser. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '09). Association for Computing Machinery, New York, NY, USA, 625–634. https://doi.org/10.1145/1518701.1518797"
+        "citication": "Yvonne Kammerer, Rowan Nairn, Peter Pirolli, and Ed H. Chi. 2009. Signpost from the masses: learning effects in an exploratory social tag search browser. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '09). Association for Computing Machinery, New York, NY, USA, 625\u2013634. https://doi.org/10.1145/1518701.1518797"
       }
     },
-    
     {
       "nr": 53,
       "uid": "looker",
@@ -3278,7 +2726,7 @@
       "imageName": "52-looker.png",
       "imageBlur": "blur",
       "details": {
-        "description": "Tourists expect to get personalized suggestions just in time whenever and wherever they need. To be effective, mobile applications for travel recommendation should consider both the variability of the user’s interests and an effective way to express them while interacting with the environment.",
+        "description": "Tourists expect to get personalized suggestions just in time whenever and wherever they need. To be effective, mobile applications for travel recommendation should consider both the variability of the user\u2019s interests and an effective way to express them while interacting with the environment.",
         "userstudy": "",
         "conclusion": ""
       },
@@ -3286,31 +2734,22 @@
         {
           "title": "Loocker",
           "image": "52-looker.png",
-          "description": "Once the permissions have been granted, the user must specify to which travel-related service category s/he is interested in, to receive touristic suggestions accordingly. S/he can select the chosen TR-service category by clicking on one of the top buttons, i.e., Food, Health, Shopping, and Attractions, as illustrated in Fig. 3b. Moreover, each time the user requests recommendations for a travel, s/he can specify and add other (optional) preferences in the form of keywords, which s/he thinks can be useful to enhance the results, by filling the Preferences field shown in Fig. 3b. Figure 4 shows an example of a ranked list of recommendations in the food category (e.g., restaurants), which can be easily scrolled by the user. Recommended TR- services are provided in decreasing order, i.e., the highest is the service in the ranked list, the more suitable it should be to the user (according to the proposed CBF recommendation algorithm). By clicking on the MAP button (see Fig. 4), the user is able to visualize the set of recommended TR services on a map, and to verify their distance with respect her/his current position. Besides the visualization on the map, the user can see more details about each item in the ranked list by directly clicking on it. As illustrated in Fig. 5, the detailed view provides various information about the recommended TR service, such as name, address, description, Web site link, average rating given by other users, as well as the reviews written about it, and finally, the geolocation on the map.",
+          "description": "Once the permissions have been granted, the user must specify to which travel-related service category s/he is interested in, to receive touristic suggestions accordingly. S/he can select the chosen TR-service category by clicking on one of the top buttons, i.e.,\u00a0Food,\u00a0Health,\u00a0Shopping, and\u00a0Attractions, as illustrated in Fig.\u00a03b. Moreover, each time the user requests recommendations for a travel, s/he can specify and add other (optional) preferences in the form of keywords, which s/he thinks can be useful to enhance the results, by filling the\u00a0Preferences\u00a0field shown in Fig.\u00a03b. Figure\u00a04\u00a0shows an example of a ranked list of recommendations in the\u00a0food\u00a0category (e.g., restaurants), which can be easily scrolled by the user. Recommended TR- services are provided in decreasing order, i.e., the highest is the service in the ranked list, the more suitable it should be to the user (according to the proposed CBF recommendation algorithm). By clicking on the MAP button (see Fig.\u00a04), the user is able to visualize the set of recommended TR services on a map, and to verify their distance with respect her/his current position. Besides the visualization on the map, the user can see more details about each item in the ranked list by directly clicking on it. As illustrated in Fig.\u00a05, the detailed view provides various information about the recommended TR service, such as name, address, description, Web site link, average rating given by other users, as well as the reviews written about it, and finally, the geolocation on the map.",
           "blocks": [
             "B_5Explorability",
             "B_6Novelty",
             "B_7Diversity",
             "B_8Serendipity",
-            "B_49Predict",
-            "B_58ShowMore",
-            "B_59Search",
-            "B_60Explore",
             "B_Individual",
             "B_Time",
             "B_Location",
             "B_Activity",
             "B_Relational",
             "B_Tourism",
-            "B_43Position",
-            "B_48ColorHue",
-            "B_07Text",
-            "B_09Icon",
             "B_20PanScroll",
             "B_22Button",
             "B_23InputForm",
             "B_17Tap",
-            "B_52Select",
             "B_SpreadPinch",
             "B_35List",
             "B_37GeograpicMap",
@@ -3328,7 +2767,7 @@
       ],
       "literature": {
         "publish_year": "2012",
-        "citication": "Keng-Seong She, Su-Cheng Haw, and Lit-Jie Chew. 2020. Tourism Recommender System Utilising Property Graph Ontology as Knowledge Base. In Proceedings of the 12th International Conference on Computer Modeling and Simulation (ICCMS '20). Association for Computing Machinery, New York, NY, USA, 14–18. https://doi.org/10.1145/3408066.3408102        "
+        "citication": "Keng-Seong She, Su-Cheng Haw, and Lit-Jie Chew. 2020. Tourism Recommender System Utilising Property Graph Ontology as Knowledge Base. In Proceedings of the 12th International Conference on Computer Modeling and Simulation (ICCMS '20). Association for Computing Machinery, New York, NY, USA, 14\u201318. https://doi.org/10.1145/3408066.3408102        "
       }
     },
     {
@@ -3350,19 +2789,12 @@
           "blocks": [
             "B_Science",
             "B_5Explorability",
-            "B_49Predict",
-            "B_54Highlight",
-            "B_60Explore",
             "B_Location",
             "B_Relational",
             "B_Individual",
-            "B_43Position",
-            "B_48ColorHue",
-            "B_06Point",
             "B_20PanScroll",
             "B_15Swipe",
             "B_17Tap",
-            "B_52Select",
             "B_SpreadPinch",
             "B_37GeograpicMap",
             "B_29ResultView"
@@ -3399,17 +2831,10 @@
           "description": "The user can choose  between sets of sample items  (min-max of a certain factor respectively to elicit user preferences)",
           "blocks": [
             "B_5Explorability",
-            "B_56Rate",
-            "B_53Compare",
             "B_Individual",
             "B_Relational",
             "B_Entertainment",
-            "B_43Position",
-            "B_48ColorHue",
-            "B_07Text",
-            "B_10Thumbnail",
             "B_17Tap",
-            "B_52Select",
             "B_22Button",
             "B_32Tile",
             "B_30ControlView"
@@ -3425,7 +2850,7 @@
       ],
       "literature": {
         "publish_year": "2014",
-        "citication": "Benedikt Loepp, Tim Hussein, and Jüergen Ziegler. 2014. Choice-based preference elicitation for collaborative filtering recommender systems. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '14). Association for Computing Machinery, New York, NY, USA, 3085–3094. https://doi.org/10.1145/2556288.2557069"
+        "citication": "Benedikt Loepp, Tim Hussein, and J\u00fcergen Ziegler. 2014. Choice-based preference elicitation for collaborative filtering recommender systems. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '14). Association for Computing Machinery, New York, NY, USA, 3085\u20133094. https://doi.org/10.1145/2556288.2557069"
       }
     },
     {
@@ -3450,17 +2875,10 @@
             "B_8Serendipity",
             "B_1Transparency",
             "B_3Controllability",
-            "B_60Explore",
             "B_21Slider",
-            "B_51Filter",
             "B_Entertainment",
-            "B_59Search",
             "B_23InputForm",
             "B_Relational",
-            "B_08Line",
-            "B_07Text",
-            "B_43Position",
-            "B_48ColorHue",
             "B_17Tap",
             "B_55Rotate",
             "B_SpreadPinch",
@@ -3502,11 +2920,7 @@
             "B_2Justification",
             "B_Entertainment",
             "B_Activity",
-            "B_07Text",
-            "B_10Thumbnail",
-            "B_43Position",
             "B_17Tap",
-            "B_49Predict",
             "B_48Table",
             "B_29ResultView"
           ]
@@ -3521,7 +2935,7 @@
       ],
       "literature": {
         "publish_year": "2009",
-        "citication": "Panagiotis Symeonidis, Alexandros Nanopoulos, and Yannis Manolopoulos. 2009. MoviExplain: a recommender system with explanations. In Proceedings of the third ACM conference on Recommender systems (RecSys '09). Association for Computing Machinery, New York, NY, USA, 317–320. https://doi.org/10.1145/1639714.1639777"
+        "citication": "Panagiotis Symeonidis, Alexandros Nanopoulos, and Yannis Manolopoulos. 2009. MoviExplain: a recommender system with explanations. In Proceedings of the third ACM conference on Recommender systems (RecSys '09). Association for Computing Machinery, New York, NY, USA, 317\u2013320. https://doi.org/10.1145/1639714.1639777"
       }
     },
     {
@@ -3539,18 +2953,14 @@
         {
           "title": "Profile Layer",
           "image": "58.png",
-          "description": "Emotion annotations were logged to analyze the correlation between a user’s emotion annotations and his/her group   members.",
+          "description": "Emotion annotations were logged to analyze the correlation between a user\u2019s emotion annotations and his/her group   members.",
           "blocks": [
             "B_6Novelty",
-            "B_60Explore",
             "B_32Tile",
             "B_29ResultView",
-            "B_07Text",
-            "B_43Position",
             "B_22Button",
             "B_Entertainment",
-            "B_Relational",
-            "B_10Thumbnail"
+            "B_Relational"
           ]
         }
       ],
@@ -3563,9 +2973,8 @@
       ],
       "literature": {
         "publish_year": "2014",
-        "citication": "Yu Chen, Xiaojuan Ma, Alfredo Cerezo, and Pearl Pu. 2014. Empatheticons: Designing Emotion Awareness Tools for Group Recommenders. In Proceedings of the XV International Conference on Human Computer Interaction (Interacción '14). Association for Computing Machinery, New York, NY, USA, Article 16, 1–8. https://doi.org/10.1145/2662253.2662269"
+        "citication": "Yu Chen, Xiaojuan Ma, Alfredo Cerezo, and Pearl Pu. 2014. Empatheticons: Designing Emotion Awareness Tools for Group Recommenders. In Proceedings of the XV International Conference on Human Computer Interaction (Interacci\u00f3n '14). Association for Computing Machinery, New York, NY, USA, Article 16, 1\u20138. https://doi.org/10.1145/2662253.2662269"
       }
     }
-
   ]
 }

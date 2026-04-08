@@ -38,20 +38,7 @@ export default {
               this.$blockService.getAllFacetOfGroup("visualizationTechnique")
             ),
           },
-          {
-            header: "Visual Channel",
-            color: "color-visualChannel",
-            elements: this.$blockService.convertListForNavigation(
-              this.$blockService.getAllFacetOfGroup("visualChannel")
-            ),
-          },
-          {
-            header: "Visual Element",
-            color: "color-visualElement",
-            elements: this.$blockService.convertListForNavigation(
-              this.$blockService.getAllFacetOfGroup("visualElement")
-            ),
-          },
+
           {
             header: "View",
             color: "color-view",
@@ -84,13 +71,7 @@ export default {
             ),
           },
           
-          {
-            header: "System or User Intent",
-            color: "color-systemOrUserIntent",
-            elements: this.$blockService.convertListForNavigation(
-              this.$blockService.getAllFacetOfGroup("systemOrUserIntent")
-            ),
-          },
+
         ],
       ],
       WHATList: [
