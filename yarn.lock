@@ -969,6 +969,13 @@
   resolved "https://registry.npmjs.org/@coreui/bootstrap-vue/-/bootstrap-vue-1.0.0-beta.0.tgz"
   integrity sha512-5UWEqIzwLlaewaafkZMIlM9HEGcnKUQ6b9a+D38RNugu+a7twEhE6DDl/kYgaPlko7yLONeuyHehbSo2J0NtUA==
 
+"@coreui/coreui@^4.1.0":
+  version "4.3.2"
+  resolved "https://registry.npmjs.org/@coreui/coreui/-/coreui-4.3.2.tgz"
+  integrity sha512-SKGY6E6v7QGq0P3YTnZQRSrU8t0euLQ3UV/FH5j0JmHYBBu7Mv0Hd9g8AESnj8xrCelKZ5bdZKZhmKaIdG5clw==
+  dependencies:
+    postcss-combine-duplicated-selectors "^10.0.3"
+
 "@eslint/eslintrc@^0.4.3":
   version "0.4.3"
   resolved "https://registry.npmjs.org/@eslint/eslintrc/-/eslintrc-0.4.3.tgz"
@@ -5462,6 +5469,13 @@ postcss-colormin@^5.3.0:
     caniuse-api "^3.0.0"
     colord "^2.9.1"
     postcss-value-parser "^4.2.0"
+
+postcss-combine-duplicated-selectors@^10.0.3:
+  version "10.0.3"
+  resolved "https://registry.npmjs.org/postcss-combine-duplicated-selectors/-/postcss-combine-duplicated-selectors-10.0.3.tgz"
+  integrity sha512-IP0BmwFloCskv7DV7xqvzDXqMHpwdczJa6ZvIW8abgHdcIHs9mCJX2ltFhu3EwA51ozp13DByng30+Ke+eIExA==
+  dependencies:
+    postcss-selector-parser "^6.0.4"
 
 postcss-convert-values@^5.1.2:
   version "5.1.2"
